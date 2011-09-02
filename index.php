@@ -1,12 +1,16 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
 
 <?
-$num_of_commits = 20;
+$num_of_commits = 15;
 ?>
 
 <html>
 
 <head>
-
+<title>Kof @ Lab19.ath.cx</title>
+<meta name="decription" content="Kof @ Lab19.ath.cx">
+<meta name="keywords" content="Krystof Pesek, Kof, aritst, Processing, FAMU, Prague, Czech Republic">
 <link href="style/basic.css" rel="stylesheet" type="text/css">
 </head>
 
