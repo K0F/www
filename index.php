@@ -2,7 +2,7 @@
         "http://www.w3.org/TR/html4/loose.dtd">
 
 <?
-$num_of_commits = 15;
+$num_of_commits = 7;
 ?>
 
 <html>
@@ -242,10 +242,12 @@ Remake of: <a href="http://openprocessing.org/visuals/?visualID=30364">sketch</a
 
 <div class="cell">
 
-<h1>frequency analysis</h1>
-<iframe src="http://player.vimeo.com/video/21277418?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="389" height="224" frameborder="0"></iframe><p>Quick sketch using a visualisation methods for letter-frequency text analysis.<br /><br />(the original text can be found on <a href="http://en.wikipedia.org/wiki/Frequency_analysis">"frequency analysis"</a> page)<br /><br /><a href="http://openprocessing.org/visuals/?visualID=24454">applet version</a><br /><br /><a href="https://github.com/K0F/2011/tree/master/03-brezen/typeWriter">sources</a> for the sketch.</p>
-</div>
+<h1>wireworld</h1>
 
+
+<iframe src="http://player.vimeo.com/video/4750394?title=0&amp;byline=0&amp;portrait=0&amp;loop=1" width="389" height="292" frameborder="0"></iframe><p>The computing model based on Cornway's "Cellar automata", made by Mark Owen in 1987 called WireWorld, it is a logics in it's pure beauty, now reloaded in this useless machine, untitled.</p>
+
+</div>
 
 <div class="cell">
 <h1>imperfect illusion of motion</h1>
