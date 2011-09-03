@@ -91,7 +91,7 @@ $num_of_commits = 15;
 
 
 	<p>
-	There is a source of this page hosted on github.
+	There is a source of this page hosted on github, quite weird :)
 	</p>
 
 
