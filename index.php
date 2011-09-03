@@ -8,7 +8,7 @@ $num_of_commits = 15;
 <html>
 
 <head>
-<title>Kof @ Lab19.ath.cx</title>
+<title>kof @ lab19.ath.cx</title>
 <meta name="decription" content="Kof @ Lab19.ath.cx">
 <meta name="keywords" content="Krystof Pesek, Kof, aritst, Processing, FAMU, Prague, Czech Republic">
 <link href="style/basic.css" rel="stylesheet" type="text/css">
@@ -87,29 +87,67 @@ $num_of_commits = 15;
     </div>
 
     <div class="cell">
-        <h1>contact</h1>
+	<h1>at absurdum</h1>
+
+
+	<p>
+	There is a source of this page hosted on github.
+	</p>
+
+
+	<?
+        $contents = file_get_contents('http://github.com/api/v2/json/commits/list/K0F/www/master?page=1');
         
-        <p>
-        For any questions etc. please do not hesitate to contact me:
-        </p>
+        //$obj = array();
+        $commits = json_decode($contents,true);
 
-        <p> 
-        <div class="mail"></div>
-        </p>
-
-        <p>
-
-        ...
         
-        </p>
+        
+        $all = $commits['commits'];
+        
 
+
+        for($i = 0 ; $i < 5 ;$i++){
+        
+        $commit = $all[$i];
+
+        //var_dump($commit);
+
+        $message = $commit["message"];
+        $url = $commit["url"];
+        $id = $commit["id"];
+        $time = $commit["committed_date"];
+      
+
+        /*
+        $fulltree = $commit["tree"];
+        $tree = file_get_contents('http://github.com/api/v2/json/blob/all/K0F/2011/'.$fulltree);
+        $parsedtree = json_decode($tree,true);
+
+        for($ii = 0;$ii < count($tree); $ii++){
+            echo $tree[$ii];
+
+        }
+        */    
+
+
+        $time = preg_replace('/T.*/', '',$time);
+        //$time = preg_replace('/-07:00/', '',$time);
+        echo '<p class="quote">';
+        echo '<a href="http://github.com'.$url.'">'.$time.'</a>';
+        echo '   :: '.$message;
+        echo '</p>';
+
+        }
+        
+        ?>
+ 
 
     </div>
 
-
     <div class="cell">
 
-        <h1>recent coding activity</h1>
+        <h1>recent coding activity 2011</h1>
         <?
         $contents = file_get_contents('http://github.com/api/v2/json/commits/list/K0F/2011/master?page=1');
         
@@ -159,6 +197,27 @@ $num_of_commits = 15;
     </div>
 
 
+    <div class="cell">
+        <h1>contact</h1>
+        
+        <p>
+        For any questions etc. please do not hesitate to contact me:
+        </p>
+
+        <p> 
+        <div class="mail"></div>
+        </p>
+
+        <p>
+
+        ...
+        
+        </p>
+
+
+    </div>
+
+
 
 
 
@@ -169,7 +228,7 @@ $num_of_commits = 15;
         <div class="cell">
             <h1>16:9 of something</h1>
 
-<iframe src="http://player.vimeo.com/video/27203486?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="390" height="219" frameborder="0"></iframe>
+<iframe src="http://player.vimeo.com/video/27203486?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=1&amp;loop=1" width="390" height="219" frameborder="0"></iframe>
 
 <p>Linearity is an answer to linear questions only. As we are very good in observing linearity in abnormally complex natural behavior, sometimes it fails completely; so the human struct of the whole system start to miss the key for the reading, then the linearity gives no more sense anymore and this is the point where so called <i>complexity == not-understanding</i> comes into play; and where the imagination starts to supply more logically (linearly structured) parts of mind with completely new conceptions - afterwards perceived and named by logical parts of mind as the logical constructs.<br />
 <br />
@@ -193,6 +252,14 @@ Remake of: <a href="http://openprocessing.org/visuals/?visualID=30364">sketch</a
 
 <iframe src="http://player.vimeo.com/video/19281044?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="389" height="258" frameborder="0"></iframe><p>80.000 entities follows a given order (pure geometry, trigonometry, illusion of space and motion)</p>
 
+</div>
+
+
+
+<div class="cell">
+<h1>the change</h1>
+
+<iframe src="http://player.vimeo.com/video/14564533?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="389" height="219" frameborder="0"></iframe><p>Ode to change. A change as a necessity to perceive. The Change is a word which is trying to describe / capture? (to stop in the way) some current happening.</p>
 </div>
 
     </td>
