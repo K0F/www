@@ -67,7 +67,7 @@ $num_of_commits = 7;
 
 
         <p class="sign">
-            all of them are available @ <a href="https://github.com/K0F">github</a>
+            all of them are available @ <a href="https://github.com/K0F">github.com</a>
         </p>
     </div>
 
@@ -245,7 +245,7 @@ Remake of: <a href="http://openprocessing.org/visuals/?visualID=30364">sketch</a
 <h1>wireworld</h1>
 
 
-<iframe src="http://player.vimeo.com/video/4750394?title=0&amp;byline=0&amp;portrait=0&amp;loop=1" width="389" height="292" frameborder="0"></iframe><p>The computing model based on Cornway's "Cellar automata", made by Mark Owen in 1987 called WireWorld, it is a logics in it's pure beauty, now reloaded in this useless machine, untitled.</p>
+<iframe src="http://player.vimeo.com/video/4750394?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;loop=1" width="389" height="292" frameborder="0"></iframe><p>The computing model based on Cornway's "Cellar automata", made by Mark Owen in 1987 called WireWorld, it is a logics in it's pure beauty, now reloaded in this useless machine, untitled.</p>
 
 </div>
 
