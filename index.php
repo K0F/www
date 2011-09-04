@@ -2,7 +2,7 @@
 "http://www.w3.org/TR/html4/loose.dtd">
 
 <?
-$num_of_commits = 5;
+$num_of_commits = 7;
 ?>
 
 <html>
@@ -75,19 +75,19 @@ the whole text is available @ <a href="http://www.libresociety.org/">libresociet
 </p>
 
 <p>
-Hit by random thorought? Try to build your <a href="http://www.intac.net/build-your-own-server/">own server</a>. <i>(find preferably completely another tutorial)</i>.
+Hit by random thorought? Try to build your <a href="http://www.bit-tech.net/bits/2007/06/05/build_your_own_server/1">own server</a>. <i>(find preferably completely another tutorial)</i>.
 </p>
 
 <p>
-The most simple thing you can do is just to act less probable, try for example a different search engine to discover another web-corners: <a href="https://duckduckgo.com/">DuckDuckGo!</a>
+The most simple thing you can do is just to act less probably, try for example a different search engine to discover another web-corners: <a href="https://duckduckgo.com/">DuckDuckGo!</a> <i>(find preferably completely another engine)</i>.
 </p>
 
-<p> Or act even less ordered and try to find a search engine <i>(by another search engine)</i> which preferably suits you the worst, ode to randomness!
+<p> Or act even less ordered way and try to find a search engine <i>(by another search engine)</i> which preferably suits you the worst, ode to randomness!
 </p>
 
 <p style="font-size:10px;font-style:oblique;color:#777;">
 --<br />
-I am afraid we are completely unable to think randomly, what we can is just to think consequently less and less probable. There is no choice.<br />
+I am afraid we are completely unable to think randomly, what we can do at maximum is just to think consequently less and less probable. There is no choice.<br />
 <p>
 
 <!--
@@ -251,14 +251,14 @@ Remake of: <a href="http://openprocessing.org/visuals/?visualID=30364">sketch</a
 <h1>wireworld</h1>
 
 
-<iframe src="http://player.vimeo.com/video/4750394?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;loop=1" width="389" height="292" frameborder="0"></iframe><p>The computing model based on Cornway's "Cellar automata", made by Mark Owen in 1987 called WireWorld, it is a logics in it's pure beauty, now reloaded in this useless machine, untitled.</p>
+<iframe src="http://player.vimeo.com/video/4750394?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;loop=0" width="389" height="292" frameborder="0"></iframe><p>The computing model based on Cornway's "Cellar automata", made by Mark Owen in 1987 called WireWorld, it is a logics in it's pure beauty, now reloaded in this useless machine, untitled.</p>
 
 </div>
 
 <div class="cell">
 <h1>imperfect illusion of motion</h1>
 
-<iframe src="http://player.vimeo.com/video/19281044?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="389" height="258" frameborder="0"></iframe><p>80.000 entities follows a given order (pure geometry, trigonometry, illusion of space and motion)</p>
+<iframe src="http://player.vimeo.com/video/19281044?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=0" width="389" height="258" frameborder="0"></iframe><p>80.000 entities follows a given order (pure geometry, trigonometry, illusion of space and motion)</p>
 
 </div>
 
@@ -267,10 +267,13 @@ Remake of: <a href="http://openprocessing.org/visuals/?visualID=30364">sketch</a
 <div class="cell">
 <h1>the change</h1>
 
-<iframe src="http://player.vimeo.com/video/14564533?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="389" height="219" frameborder="0"></iframe><p>Ode to change. A change as a necessity to perceive. The Change is a word which is trying to describe / capture? (to stop in the way) some current happening.</p>
+<iframe src="http://player.vimeo.com/video/14564533?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=0" width="389" height="219" frameborder="0"></iframe><p>Ode to change. A change as a necessity to perceive. The Change is a word which is trying to describe / capture? (to stop in the way) some current happening.</p>
 </div>
 
-
+<div class="cell">
+<h1>collapsing complexity</h1>
+<iframe src="http://player.vimeo.com/video/8001034?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;loop=0" width="389" height="292" frameborder="0"></iframe><p>Computer code is gradually using all allowed memory until it reach it's own collapse..<br /><br />sound: We're Complex Piss - The Shadow Ring</p>
+</div>
 
 <!-- END CONTENT --!>
 
