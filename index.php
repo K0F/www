@@ -2,7 +2,7 @@
 "http://www.w3.org/TR/html4/loose.dtd">
 
 <?
-$num_of_commits = 7;
+$num_of_commits = 5;
 ?>
 
 <html>
@@ -41,6 +41,15 @@ $num_of_commits = 7;
 
 
 <!-- //////////////////////////// --!>
+
+
+<div class="cell">
+<h1>welcome!</h1>
+<p>
+Welcome to <i>lab19.ath.cx</i>, physical device / low fidelity web server placed in <i>Prague</i> / Central Europe. The motivation of building own little server is rather symbolic and purely ideologic in this case.
+</p>
+</div>
+
 <div class="cell">
 <h1>free culture</h1>
 
@@ -60,6 +69,37 @@ the whole text is available @ <a href="http://www.libresociety.org/">libresociet
 </div>
 
 
+<div class="cell">
+<h1>random thorought</h1>
+<p>When you think about wider consequences, the what we call <i>The Great Internet</i> today are in fact just a few physical <i>"places"</i> most of us are visiting over and over again. The less <i>random</i> people act, the greater probability there is that someone will control them; therefore the more mass manipulation we can expect. To create <i>"a healthier global network"</i> we definitely need more decentralized network, less data retention and a hard-core-secured communication by default.
+</p>
+
+<p>
+Hit by random thorought? Try to build your <a href="http://www.intac.net/build-your-own-server/">own server</a>. <i>(find preferably completely another tutorial)</i>.
+</p>
+
+<p>
+The most simple thing you can do is just to act less probable, try for example a different search engine to discover another web-corners: <a href="https://duckduckgo.com/">DuckDuckGo!</a>
+</p>
+
+<p> Or act even less ordered and try to find a search engine <i>(by another search engine)</i> which preferably suits you the worst, ode to randomness!
+</p>
+
+<p style="font-size:10px;font-style:oblique;color:#777;">
+--<br />
+I am afraid we are completely unable to think randomly, what we can is just to think consequently less and less probable. There is no choice.<br />
+<p>
+
+<!--
+For those, who are reading sources instead of frontpages random thorought no.2: http://ccs.mit.edu/papers/CCSWP197/CCSWP197.html ..interesting paper
+!-->
+
+<p class="sign">
+<i>--kof</i>
+</p>
+
+</div>
+
 <!-- //////////////////////////// --!>
 <div class="cell">
 <h1>kof's manifesto</h1>
@@ -72,6 +112,78 @@ If there is any source code of my work, there is no owner including myself. Bina
 <p class="sign">
 all of them are available @ <a href="https://github.com/K0F">github.com</a>
 </p>
+</div>
+
+<div class="cell">
+<h1>at absurdum</h1>
+
+
+<p>
+There is a source of this page hosted on github, quite weird :)
+</p>
+
+<?
+/*
+* simple github json API
+*/
+
+//load json answer
+$contents = file_get_contents('http://github.com/api/v2/json/commits/list/K0F/www/master?page=1');
+
+//parse it
+$commits = json_decode($contents,true);
+$all = $commits['commits'];
+
+for($i = 0 ; $i < $num_of_commits ;$i++){
+	$commit = $all[$i];
+
+	$message = $commit["message"];
+	$url = $commit["url"];
+	$id = $commit["id"];
+	$time = $commit["committed_date"];
+
+	//remove -07:00 regexp
+	$time = preg_replace('/T.*/', '',$time);
+	echo '<p class="quote">';
+	echo '<a href="http://github.com'.$url.'">'.$time.'</a>';
+	echo '   :: '.$message;
+	echo '</p>';
+}
+?>
+
+</div>
+
+<div class="cell">
+
+<h1>recent coding activity 2011</h1>
+<?
+/*
+* simple github json API
+*/
+
+//load json answer
+$contents = file_get_contents('http://github.com/api/v2/json/commits/list/K0F/2011/master?page=1');
+
+//parse it
+$commits = json_decode($contents,true);
+$all = $commits['commits'];
+
+for($i = 0 ; $i < $num_of_commits ;$i++){
+	$commit = $all[$i];
+
+	$message = $commit["message"];
+	$url = $commit["url"];
+	$id = $commit["id"];
+	$time = $commit["committed_date"];
+
+	//remove -07:00 regexp
+	$time = preg_replace('/T.*/', '',$time);
+	echo '<p class="quote">';
+	echo '<a href="http://github.com'.$url.'">'.$time.'</a>';
+	echo '   :: '.$message;
+	echo '</p>';
+}
+?>
 </div>
 
 <!-- //////////////////////////// --!>
@@ -89,122 +201,12 @@ kof@<a href="http://vimeo.com/kof/videos/">vimeo.com</a>
 </p>
 </div>
 
-<div class="cell">
-<h1>at absurdum</h1>
-
-
-<p>
-There is a source of this page hosted on github, quite weird :)
-</p>
-
-
-<?
-$contents = file_get_contents('http://github.com/api/v2/json/commits/list/K0F/www/master?page=1');
-
-//$obj = array();
-$commits = json_decode($contents,true);
-
-
-
-$all = $commits['commits'];
-
-
-
-for($i = 0 ; $i < 5 ;$i++){
-
-	$commit = $all[$i];
-
-	//var_dump($commit);
-
-	$message = $commit["message"];
-	$url = $commit["url"];
-	$id = $commit["id"];
-	$time = $commit["committed_date"];
-
-
-	/*
-	   $fulltree = $commit["tree"];
-	   $tree = file_get_contents('http://github.com/api/v2/json/blob/all/K0F/2011/'.$fulltree);
-	   $parsedtree = json_decode($tree,true);
-
-	   for($ii = 0;$ii < count($tree); $ii++){
-	   echo $tree[$ii];
-
-	   }
-	 */    
-
-
-	$time = preg_replace('/T.*/', '',$time);
-	//$time = preg_replace('/-07:00/', '',$time);
-	echo '<p class="quote">';
-	echo '<a href="http://github.com'.$url.'">'.$time.'</a>';
-	echo '   :: '.$message;
-	echo '</p>';
-
-}
-
-?>
-
-
-</div>
-
-<div class="cell">
-
-<h1>recent coding activity 2011</h1>
-<?
-$contents = file_get_contents('http://github.com/api/v2/json/commits/list/K0F/2011/master?page=1');
-
-//$obj = array();
-$commits = json_decode($contents,true);
-
-
-
-$all = $commits['commits'];
-
-
-
-for($i = 0 ; $i < $num_of_commits ;$i++){
-
-	$commit = $all[$i];
-
-	//var_dump($commit);
-
-	$message = $commit["message"];
-	$url = $commit["url"];
-	$id = $commit["id"];
-	$time = $commit["committed_date"];
-
-
-	/*
-	   $fulltree = $commit["tree"];
-	   $tree = file_get_contents('http://github.com/api/v2/json/blob/all/K0F/2011/'.$fulltree);
-	   $parsedtree = json_decode($tree,true);
-
-	   for($ii = 0;$ii < count($tree); $ii++){
-	   echo $tree[$ii];
-
-	   }
-	 */    
-
-
-	$time = preg_replace('/T.*/', '',$time);
-	//$time = preg_replace('/-07:00/', '',$time);
-	echo '<p class="quote">';
-	echo '<a href="http://github.com'.$url.'">'.$time.'</a>';
-	echo '   :: '.$message;
-	echo '</p>';
-
-}
-
-?>
-</div>
-
 
 <div class="cell">
 <h1>contact</h1>
 
 <p>
-For any questions etc. please do not hesitate to contact me:
+For any questions etc. please do not <i>(hesitate to)</i> contact me:
 </p>
 
 <p> 
@@ -212,7 +214,7 @@ For any questions etc. please do not hesitate to contact me:
 </p>
 
 <p>
-Please do not ask me how to get particular codes working, there are plenty of them and I am trying to write some simple documentation if possible, it is hard work for me. It is my bad long-term memory, I am sorry, I don't remember, I don't know.
+I am sorry I am unable to describe particular code <i>(dis)</i>functionalities, there are plenty of them, they are old, I am trying to reversly write some simple documentation ..it is really hard work for me. I am sorry for lack of my long-term memory, I don't remember, I don't know anything.
 </p>
 </div>
 
@@ -221,7 +223,7 @@ Please do not ask me how to get particular codes working, there are plenty of th
 <div class="cell">
 
 <p class="sign">
-build with great tools: <a href="http://www.vim.org/">vim</a> / <a href="http://www.php.net/">php</a> / <a href="http://httpd.apache.org/">apache</a> / <a href="http://git-scm.com/">git</a> / <a href="http://code.google.com/p/grafx2/">grafx</a> and mostly <a href="http://processing.org/">processing</a>
+build with: <a href="http://www.vim.org/">vim</a> / <a href="http://www.php.net/">php</a> / <a href="http://httpd.apache.org/">apache</a> / <a href="http://git-scm.com/">git</a> / <a href="http://code.google.com/p/grafx2/">grafx</a> and mostly <a href="http://processing.org/">processing</a>
 </p>
 </div>
 

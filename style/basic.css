@@ -1,65 +1,62 @@
 body{
+	font-family: Georgia, "Liberation Serif", Serif, Verdana, "Liberation Sans", Arial;
+	font-size:12px;
 	background-image: url(../bck.gif);
 }
 
 tbody{
-    font-family: Georgia, "Liberation Serif", Serif, Verdana, "Liberation Sans", Arial;
-    font-size: 12px;
+	font-size: 12px;
+	font-family: Georgia, "Liberation Serif", Serif, Verdana, "Liberation Sans", Arial;
 }
 
 
 
 h1{
-    font-size:3em;
-    color: #777777;
-    font-style: oblique;
-    line-height: 20px;
+	font-size:3em;
+	color: #777777;
+	font-style: oblique;
+	line-height: 20px;
 }
 
 a {
- color:#F2583E;
- font-style: oblique;
- text-decoration:none;
+	color:#F2583E;
+	font-style: oblique;
+	text-decoration:none;
 }
 
 a:hover {
- color:#c2281e;
+	color:#c2281e;
 }
 
 .cell{
+	width: 390px;
+	margin-bottom: 12px;
+	padding: 5px 10px 15px 10px;
 
-        /*background: #fafafa url(../shade.gif) repeat-x fixed left bottom;
-*/
-	
-        width: 390px;
-        margin-bottom: 12px;
-        padding: 5px 10px 15px 10px;
+	 /* special */
+	 -moz-border-radius: 5px;
+	 border-radius: 5px;
 
 
-        /* special */
-         -moz-border-radius: 5px;
-         border-radius: 5px;
+	 -moz-box-shadow: 0px 2px 3px #bbb;
+	 -webkit-box-shadow: 0px 2px 3px #bbb;
+	 box-shadow: 0px 2px 3px #bbb;
 
-         
-         -moz-box-shadow: 0px 2px 3px #bbb;
-         -webkit-box-shadow: 0px 2px 3px #bbb;
-         box-shadow: 0px 2px 3px #bbb;
+	 /* For IE 8 */
+	 -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#bbbbbb')";
 
-         /* For IE 8 */
-         -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#bbbbbb')";
-        
-         /* For IE 5.5 - 7 */
-        filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#bbbbbbb');
+	 /* For IE 5.5 - 7 */
+filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#bbbbbbb');
 
 
 
 
-         border-width: 1px;
-         border-style: solid;
-         border-color: #cacaca;
-/*display: inline-block;*/
+	border-width: 1px;
+	border-style: solid;
+	border-color: #cacaca;
+	/*display: inline-block;*/
 
-background-color:#b0c4de;
+	background-color:#b0c4de;
 background:  url("../imgs/shade.png") repeat-x bottom left, url("../imgs/shadeTop.png") repeat-x top left, url("../bck2.gif") repeat top left;
 
 
@@ -67,7 +64,7 @@ background:  url("../imgs/shade.png") repeat-x bottom left, url("../imgs/shadeTo
 
 
 .cell h1{
-        color: #2B3E42;
+color: #2B3E42;
        font-size: 2em;
        font-family: serif;
        font-style: oblique;
@@ -83,24 +80,24 @@ background:  url("../imgs/shade.png") repeat-x bottom left, url("../imgs/shadeTo
 }
 
 .cell p{
-    text-indent: 5px;
-     color:#2B3E42;
-text-align: justify;
+	text-indent: 5px;
+color:#2B3E42;
+      text-align: justify;
 }
 
 .cell p.sign{
-    text-align:right;  
-    color: #747E80;
+	text-align:right;  
+color: #747E80;
 }
 
 .cell p.quote{
-    color:#2B3E42;
-    font-style: oblique;
+color:#2B3E42;
+      font-style: oblique;
 }
 
 .mail{
-    width: 128px;
-    height:16px;
-    background: url("../imgs/mail.png") no-repeat top left;
+width: 128px;
+height:16px;
+background: url("../imgs/mail.png") no-repeat top left;
 
 }
