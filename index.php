@@ -79,7 +79,7 @@ Hit by random thorought? Try to build your <a href="http://www.bit-tech.net/bits
 </p>
 
 <p>
-The most simple thing you can do is just to act less probably, try for example a different search engine to discover another web-corners: <a href="https://duckduckgo.com/">DuckDuckGo!</a> <i>(find preferably completely another engine)</i>.
+The most simple thing you can do is just to act less probably, try this page <a href="http://randomwebsite.com/cgi-bin/random.pl">randomwebsite.org</a> or try for example a different search engine to discover another web-corners: <a href="https://duckduckgo.com/">DuckDuckGo!</a> <i>(find preferably completely another engine)</i>.
 </p>
 
 <p> Or act even less ordered way and try to find a search engine <i>(by another search engine)</i> which preferably suits you the worst, ode to randomness!
