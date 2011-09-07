@@ -10,7 +10,7 @@ $num_of_commits = 7;
 <head>
 <title>kof @ lab19.ath.cx</title>
 <meta name="decription" content="Kof @ Lab19.ath.cx">
-<meta name="keywords" content="Krystof Pesek, Kof, aritst, Processing, FAMU, Prague, Czech Republic">
+<meta name="keywords" content="Krystof Pesek, kof, k0f, Processing, FAMU, Prague, Czech Republic">
 <link href="style/basic.css" rel="stylesheet" type="text/css">
 </head>
 
