@@ -79,15 +79,15 @@ Hit by random thorought? Try to build your <a href="http://www.bit-tech.net/bits
 </p>
 
 <p>
-The most simple thing you can do is just to act less probably, try this page <a href="http://randomwebsite.com/cgi-bin/random.pl">randomwebsite.org</a> or try for example a different search engine to discover another web-corners: <a href="https://duckduckgo.com/">DuckDuckGo!</a> <i>(find preferably completely another engine)</i>.
+The most simple step you can do is just to act less probable, to do so, you can try this page <a href="http://randomwebsite.com/cgi-bin/random.pl">randomwebsite.org</a> or try for example a different search engine to discover another web-corners: <a href="https://duckduckgo.com/">DuckDuckGo!</a> <i>(find preferably completely another engine)</i>.
 </p>
 
-<p> Or act even less ordered way and try to find a search engine <i>(by another search engine)</i> which preferably suits you the worst, ode to randomness!
+<p> Or act even less ordered way and try to find a minor crappy search engine <i>(by another search engine)</i> which preferably suits you the worst, randomness guranteed!
 </p>
 
 <p style="font-size:10px;font-style:oblique;color:#777;">
 --<br />
-I am afraid we are completely unable to think randomly, what we can do at maximum is just to think consequently less and less probable. There is no choice.<br />
+I am afraid we are completely unable to think nor to act random way, what we can do at maximum is just to think consequently less and less probable. There is no choice anyway.<br />
 <p>
 
 <!--
@@ -206,7 +206,7 @@ kof@<a href="http://vimeo.com/kof/videos/">vimeo.com</a>
 <h1>contact</h1>
 
 <p>
-For any questions etc. please do not <i>(hesitate to)</i> contact me:
+For any questions etc. please do not hesitate to contact me:
 </p>
 
 <p> 
@@ -214,7 +214,11 @@ For any questions etc. please do not <i>(hesitate to)</i> contact me:
 </p>
 
 <p>
-I am sorry I am unable to describe particular code <i>(dis)</i>functionalities, there are plenty of them, they are old, I am trying to reversly write some simple documentation ..it is really hard work for me. I am sorry for lack of my long-term memory, I don't remember, I don't know anything.
+I am sorry I am unable to describe particular code <i>(dis)</i>functionalities. There are plenty of sketches, they are old and messy, I am trying to reversely write down at least some basic documentation, where it is possible.. it is really hard work for me to dig in. The obstruction of this process is a matter of lack of my long-term memory <i>(I don't remember, I don't know anything)</i> and time for doing so. Thanks for understanding.
+</p>
+
+<p>
+ Any other questions, offers, comments and critics are welcomed.
 </p>
 </div>
 
