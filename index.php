@@ -119,7 +119,7 @@ all of them are available @ <a href="https://github.com/K0F">github.com</a>
 
 
 <p>
-There is a source of this page hosted on github, quite weird :)
+There is a list of commits made at the source of this page hosted on github, quite weird isn't it? :)
 </p>
 
 <?
