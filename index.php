@@ -218,7 +218,7 @@ I am sorry I am unable to describe particular code <i>(dis)</i>functionalities. 
 </p>
 
 <p>
- Any other questions, offers, comments and critics are welcomed.
+ Any other questions, offers, comments and critics <i>(Česky nebo English)</i> are welcomed.
 </p>
 </div>
 
