@@ -223,7 +223,6 @@ I am sorry I am unable to describe particular code <i>(dis)</i>functionalities. 
 </div>
 
 
-
 <div class="cell">
 
 <p class="sign">
@@ -235,24 +234,59 @@ build with: <a href="http://www.vim.org/">vim</a> / <a href="http://www.php.net/
 <!-- RIGHT ROW --!>
 <td valign="top" width="50%">
 
-<div class="cell">
+ <div class="cell">
 <h1>Perfect Illusion of Motion</h1>
-<iframe src="http://player.vimeo.com/video/28927645?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=1&amp;loop=1" width="389" height="258" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe><p>Binaries, in case of software (executables, picture renders, video renders), technically doesn't contain a readable "knowledge" for "next generations".<p/>
-<p>Binaries can be considered as an "artifacts" in software art, a product - something what "can be sold", it has a "market value". But in terms of archiving it is completely misleading conception.<p/>
-<p>Video above is an exemplary remake of binary video output from a computer software (Processing) called <a href="http://www.vimeo.com/19281044">Imperfect Illusion of Motion</a></p>
-<p>The source code is now lost and of course forgotten, forever. (disk corruption issue, not backed up)</p>
-<p>This video remake reveals the compression artifacts (so far the past) which is starting to appear after one single conversion.</p>
-<p>The "original" of "Perfect Illusion of Motion", this video, has a sha-1 (imperfect 160 bit) checksum:<p/>
-<p>2a6e32b2190e05a4464f16e21598b57a3ec34d94</p>
-<p>Isn't it poetic?<br /><br /><a href="http://en.wikipedia.org/wiki/SHA-1">read more about SHA</a><br /><br />.. OK, probably not ))<br /><br /></p>
-<p>This file will change on Vimeo with a non-paid basic account one week after upload.. it is no longer authentic original then. Walter Benjamin, we need more theories! ))<p>Vimeo can no longer support storing the original videos.. it used to be "free" Vimeo service (back in 2009?), but since then due to enormous growth, it is from the economical point of view, of course, impossible schema to continue.</p>
-<p>It is much cheaper to store the knowledge in the text form and much safer to store it in a physical form. (rewriting to new "market standarts" etc.) For any knowledge the text is in general the best "compression" algorithm ever made by human culture. And what is the best it can be readable hundreds years from now, as the algorithm, human language is changing quite slowly. And a libraries are and will be available for public!</p>
-<p>That is why the <i>open-source</i> conception in terms of archiving and software development will be more successful over <i>machine-code-binary-product distribution</i>. What we can observe is a kind of tension between temporary market motivations versus a motivations to share some knowledge (for current or / and future generations).</p>
+<iframe src="http://player.vimeo.com/video/28927645?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=1&amp;loop=1" width="389" height="258" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
+<p>
+Binaries in case of software outputs (executables, picture renders, video renders), technically doesn't contain a readable <i>"knowledge"</i> for <i>"next generations"</i>.
+</p>
+<p>
+Binaries can be considered as an <i>"artifacts"</i> in software art, a product - something what <i>"can be sold"</i>, it has a <i>"market value"</i>. But in terms of archiving it is completely misleading conception.
+</p>
+<p>
+<a href=" http://vimeo.com/kof/perfectillusionofmotion">Video above</a> is an exemplary remake of earlier binary <a href="http://vimeo.com/kof/imperfectillusionofmotion">video output</a> from a computer software (Processing).
+</p>
+
+<p>
+The source code is now lost and of course forgotten, forever. <i>(disk corruption issue, not backed up)</i>
+
+This video remake reveals the compression artifacts <i>(so far the past)</i> which is starting to appear after one <i>(two)</i> convertion<i>(s)</i>.
+</p>
+<p>
+The <i>"original"</i> of <i>"Perfect Illusion of Motion"</i>, this video, has a <b>SHA-1</b> <i>(questionable 160 bit)</i> checksum:
+<br /><br />
+2a6e32b2190e05a4464f16e21598b57a3ec34d94
+<br /><br />
+<i>Isn't it poetic?</i>
+<br /><br />
+<a href="http://en.wikipedia.org/wiki/SHA-1">read more about SHA</a>
+<br /><br />
+<i>.. well, probably not )</i>
+</p>
 
 
-<p class="sign">I am sorry for a long text in bad English, it is just few random, well compressed, thoughts on archiving.<br /><br />This video will "die" in one week. (@ Sep 19 2011)<br /><br />
+<p>
+This file will change on the Vimeo server with a non-paid basic account one week after upload.. it is no longer authentic original then. Walter Benjamin, we need more theories here! ))
+</p>
+<p>
+Vimeo can no longer support storing the original videos to common users.. it used to be <i>"free"</i> Vimeo service (back in 2009?), but since then due to an enormous growth of this company; and understandable technical reasons <i>(server infrastructure able to distribute a massive piping of HD content)</i>; this model is just from the economical point of view impossible to keep such way.
+</p>
+<p>
+<i>Is it even possible to keep it any other way?</i>
+</p>
+<p>
+It is much cheaper to store any knowledge in the text form. It is much safer to store it in printed physical form. <i>(never ending rewriting to current readable "standarts")</i> The text communication is in general still the best <i>"compression"</i> algorithm ever made by human culture. And what is the best, it can be red hundreds years from now, as a algorithm, the human language is changing considerably more slow than any other such <i>"compression"</i>.
+</p>
+<p>
+So why the <b>free-open-source</b> conception in terms of archiving of software and its development will be more successful over <b>machine-code-binary-product</b> conception? The answer is simple: for its readability anytime in future. What we can observe is a persisting tension between a temporary motivation of a market and a motivation to share some real current knowledge to other people for this moment or somehow distant future one.
+</p>
+
+<p>I am sorry for a long and fragmented text in bad English. It is just few current, massively compressed thoughts on archiving.</p>
+<p>Anyway, this video will seamlessly "die" here in one week. <i>(@ Sep 19 2011)</i><br /><br />
+<p class="sign">
 <i>--kof</i></p>
 </div>
+
 
 <div class="cell">
 <h1>16:9 of something</h1>
