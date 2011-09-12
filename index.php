@@ -236,9 +236,28 @@ build with: <a href="http://www.vim.org/">vim</a> / <a href="http://www.php.net/
 <td valign="top" width="50%">
 
 <div class="cell">
+<h1>Perfect Illusion of Motion</h1>
+<iframe src="http://player.vimeo.com/video/28927645?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=1&amp;loop=1" width="389" height="258" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe><p>Binaries, in case of software (executables, picture renders, video renders), technically doesn't contain a readable "knowledge" for "next generations".<p/>
+<p>Binaries can be considered as an "artifacts" in software art, a product - something what "can be sold", it has a "market value". But in terms of archiving it is completely misleading conception.<p/>
+<p>Video above is an exemplary remake of binary video output from a computer software (Processing) called <a href="http://www.vimeo.com/19281044">Imperfect Illusion of Motion</a></p>
+<p>The source code is now lost and of course forgotten, forever. (disk corruption issue, not backed up)</p>
+<p>This video remake reveals the compression artifacts (so far the past) which is starting to appear after one single conversion.</p>
+<p>The "original" of "Perfect Illusion of Motion", this video, has a sha-1 (imperfect 160 bit) checksum:<p/>
+<p>2a6e32b2190e05a4464f16e21598b57a3ec34d94</p>
+<p>Isn't it poetic?<br /><br /><a href="http://en.wikipedia.org/wiki/SHA-1">read more about SHA</a><br /><br />.. OK, probably not ))<br /><br /></p>
+<p>This file will change on Vimeo with a non-paid basic account one week after upload.. it is no longer authentic original then. Walter Benjamin, we need more theories! ))<p>Vimeo can no longer support storing the original videos.. it used to be "free" Vimeo service (back in 2009?), but since then due to enormous growth, it is from the economical point of view, of course, impossible schema to continue.</p>
+<p>It is much cheaper to store the knowledge in the text form and much safer to store it in a physical form. (rewriting to new "market standarts" etc.) For any knowledge the text is in general the best "compression" algorithm ever made by human culture. And what is the best it can be readable hundreds years from now, as the algorithm, human language is changing quite slowly. And a libraries are and will be available for public!</p>
+<p>That is why the <i>open-source</i> conception in terms of archiving and software development will be more successful over <i>machine-code-binary-product distribution</i>. What we can observe is a kind of tension between temporary market motivations versus a motivations to share some knowledge (for current or / and future generations).</p>
+
+
+<p class="sign">I am sorry for a long text in bad English, it is just few random, well compressed, thoughts on archiving.<br /><br />This video will "die" in one week. (@ Sep 19 2011)<br /><br />
+<i>--kof</i></p>
+</div>
+
+<div class="cell">
 <h1>16:9 of something</h1>
 
-<iframe src="http://player.vimeo.com/video/27203486?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=1&amp;loop=1" width="390" height="219" frameborder="0"></iframe>
+<iframe src="http://player.vimeo.com/video/27203486?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=0" width="390" height="219" frameborder="0"></iframe>
 
 <p>Linearity is an answer to linear questions only. As we are very good in observing linearity in abnormally complex natural behavior, sometimes it fails completely; so the human struct of the whole system start to miss the key for the reading, then the linearity gives no more sense anymore and this is the point where so called <i>complexity == not-understanding</i> comes into play; and where the imagination starts to supply more logically (linearly structured) parts of mind with completely new conceptions - afterwards perceived and named by logical parts of mind as the logical constructs.<br />
 <br />
@@ -258,14 +277,6 @@ Remake of: <a href="http://openprocessing.org/visuals/?visualID=30364">sketch</a
 <iframe src="http://player.vimeo.com/video/4750394?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;loop=0" width="389" height="292" frameborder="0"></iframe><p>The computing model based on Cornway's "Cellar automata", made by Mark Owen in 1987 called WireWorld, it is a logics in it's pure beauty, now reloaded in this useless machine, untitled.</p>
 
 </div>
-
-<div class="cell">
-<h1>imperfect illusion of motion</h1>
-
-<iframe src="http://player.vimeo.com/video/19281044?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=0" width="389" height="258" frameborder="0"></iframe><p>80.000 entities follows a given order (pure geometry, trigonometry, illusion of space and motion)</p>
-
-</div>
-
 
 
 <div class="cell">
