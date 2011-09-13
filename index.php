@@ -269,7 +269,7 @@ The <i>"original"</i> of <i>"Perfect Illusion of Motion"</i>, this video, has a 
 This file will change on the Vimeo server with a non-paid basic account one week after upload.. it is no longer authentic original then. Walter Benjamin, we need more theories here! ))
 </p>
 <p>
-Vimeo can no longer support storing the original videos to common users.. it used to be <i>"free"</i> Vimeo service (back in 2009?), but since then due to an enormous growth of this company; and understandable technical reasons <i>(server infrastructure able to distribute a massive piping of HD content)</i>; this model is just from the economical point of view impossible to keep such way.
+Vimeo can no longer support storing the original videos to common users.. it used to be <i>"free"</i> Vimeo service <i>(back in 2009?)</i>, but since then due to an enormous growth of this company; and understandable technical reasons <i>(server infrastructure able to distribute a massive of HD content)</i>; this model is just from the economical point of view impossible to keep such way.
 </p>
 <p>
 <i>Is it even possible to keep it any other way?</i>
@@ -278,7 +278,7 @@ Vimeo can no longer support storing the original videos to common users.. it use
 It is much cheaper to store any knowledge in the text form. It is much safer to store it in printed physical form. <i>(never ending rewriting to current readable "standarts")</i> The text communication is in general still the best <i>"compression"</i> algorithm ever made by human culture. And what is the best, it can be red hundreds years from now, as a algorithm, the human language is changing considerably more slow than any other such <i>"compression"</i>.
 </p>
 <p>
-So why the <b>free-open-source</b> conception in terms of archiving of software and its development will be more successful over <b>machine-code-binary-product</b> conception? The answer is simple: for its readability anytime in future. What we can observe is a persisting tension between a temporary motivation of a market and a motivation to share some real current knowledge to other people for this moment or somehow distant future one.
+So why the <b>free-open-source</b> conception in terms of archiving of software and its development will be more successful over <b>machine-code-binary-product</b> conception? The answer is simple: for its readability anytime in future. What we can observe is a persisting tension between an understandable but temporary motivation of the market and the motivation to share some real current knowledge to other people, for this moment or anyhow distant future one.
 </p>
 
 <p>I am sorry for a long and fragmented text in bad English. It is just few current, massively compressed thoughts on archiving.</p>
