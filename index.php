@@ -124,30 +124,35 @@ There is a list of commits made to the source of this page hosted on github, qui
 
 <?
 /*
-* simple github json API
-*/
+ * simple github json API
+ */
 
 //load json answer
 $contents = file_get_contents('http://github.com/api/v2/json/commits/list/K0F/www/master?page=1');
 
-//parse it
-$commits = json_decode($contents,true);
-$all = $commits['commits'];
+if($contents==null){
+	echo '<p>GitHub API is not responding right now, you can reach the content <a href="https://github.com/K0F/www">here</a></p>';
+}else{
 
-for($i = 0 ; $i < $num_of_commits ;$i++){
-	$commit = $all[$i];
+	//parse it
+	$commits = json_decode($contents,true);
+	$all = $commits['commits'];
 
-	$message = $commit["message"];
-	$url = $commit["url"];
-	$id = $commit["id"];
-	$time = $commit["committed_date"];
+	for($i = 0 ; $i < $num_of_commits ;$i++){
+		$commit = $all[$i];
 
-	//remove -07:00 regexp
-	$time = preg_replace('/T.*/', '',$time);
-	echo '<p class="quote">';
-	echo '<a href="http://github.com'.$url.'">'.$time.'</a>';
-	echo '   :: '.$message;
-	echo '</p>';
+		$message = $commit["message"];
+		$url = $commit["url"];
+		$id = $commit["id"];
+		$time = $commit["committed_date"];
+
+		//remove -07:00 regexp
+		$time = preg_replace('/T.*/', '',$time);
+		echo '<p class="quote">';
+		echo '<a href="http://github.com'.$url.'">'.$time.'</a>';
+		echo '   :: '.$message;
+		echo '</p>';
+	}
 }
 ?>
 
@@ -158,30 +163,38 @@ for($i = 0 ; $i < $num_of_commits ;$i++){
 <h1>recent coding activity 2011</h1>
 <?
 /*
-* simple github json API
-*/
+ * simple github json API
+ */
 
 //load json answer
 $contents = file_get_contents('http://github.com/api/v2/json/commits/list/K0F/2011/master?page=1');
 
-//parse it
-$commits = json_decode($contents,true);
-$all = $commits['commits'];
 
-for($i = 0 ; $i < $num_of_commits ;$i++){
-	$commit = $all[$i];
+if($contents==null){
+	echo '<p>Same error here, you can reach all the recent acivity <a href="https://github.com/K0F">here</a></p>';
+}else{
 
-	$message = $commit["message"];
-	$url = $commit["url"];
-	$id = $commit["id"];
-	$time = $commit["committed_date"];
 
-	//remove -07:00 regexp
-	$time = preg_replace('/T.*/', '',$time);
-	echo '<p class="quote">';
-	echo '<a href="http://github.com'.$url.'">'.$time.'</a>';
-	echo '   :: '.$message;
-	echo '</p>';
+
+	//parse it
+	$commits = json_decode($contents,true);
+	$all = $commits['commits'];
+
+	for($i = 0 ; $i < $num_of_commits ;$i++){
+		$commit = $all[$i];
+
+		$message = $commit["message"];
+		$url = $commit["url"];
+		$id = $commit["id"];
+		$time = $commit["committed_date"];
+
+		//remove -07:00 regexp
+		$time = preg_replace('/T.*/', '',$time);
+		echo '<p class="quote">';
+		echo '<a href="http://github.com'.$url.'">'.$time.'</a>';
+		echo '   :: '.$message;
+		echo '</p>';
+	}
 }
 ?>
 </div>
@@ -218,7 +231,7 @@ I am sorry I am unable to describe particular code <i>(dis)</i>functionalities. 
 </p>
 
 <p>
- Any other questions, offers, comments and critics <i>(Česky nebo English)</i> are welcomed.
+Any other questions, offers, comments and critics <i>(Česky nebo English)</i> are welcomed.
 </p>
 </div>
 
@@ -234,7 +247,7 @@ build with: <a href="http://www.vim.org/">vim</a> / <a href="http://www.php.net/
 <!-- RIGHT ROW --!>
 <td valign="top" width="50%">
 
- <div class="cell">
+<div class="cell">
 <h1>Perfect Illusion of Motion</h1>
 <iframe src="http://player.vimeo.com/video/28927645?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=1&amp;loop=1" width="389" height="258" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
 <p>
