@@ -82,6 +82,10 @@ Hit by random thorought? Try to build your <a href="http://www.bit-tech.net/bits
 The most simple step you can do is just to act less probable, to do so, you can try this page <a href="http://randomwebsite.com/cgi-bin/random.pl">randomwebsite.org</a> or try for example a different search engine to discover another web-corners: <a href="https://duckduckgo.com/">DuckDuckGo!</a> <i>(find preferably completely another engine)</i>.
 </p>
 
+<p>
+Are you using some kind of <i>*social*</i> network, try decentralized and much more secure alternative, project <a href="https://pod.geraspora.de/">d</a><a href="https://my-seed.com/">i</a><a href="https://the.diasperse.com/">a</a><a href="http://li-la.de:3000/">s</a><a href="https://social.mathaba.net/">p</a><a href="http://podup.sargodarya.de/">o</a><a href="http://filiusdex.com/">r</a><a href="https://diasp.de/">a</a><a href="http://podupti.me/">!</a>
+</p>
+
 <p> Or act even less ordered way and try to find a minor crappy search engine <i>(by another search engine)</i> which preferably suits you the worst, randomness guranteed!
 </p>
 
