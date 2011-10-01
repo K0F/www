@@ -1,5 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-"http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
 <?
 $num_of_commits = 7;
@@ -9,8 +8,8 @@ $num_of_commits = 7;
 
 <head>
 <title>kof @ lab19.ath.cx</title>
-<meta name="decription" content="Kof @ Lab19.ath.cx">
-<meta name="keywords" content="Krystof Pesek, kof, k0f, Processing, FAMU, Prague, Czech Republic">
+<meta name="decription" content="kof @ Lab19.ath.cx">
+<meta name="keywords" content="kof, k0f, Processing, Prague, Czech Republic">
 <link href="style/basic.css" rel="stylesheet" type="text/css">
 </head>
 
@@ -46,7 +45,7 @@ $num_of_commits = 7;
 <div class="cell">
 <h1>welcome!</h1>
 <p>
-Welcome to <i>lab19.ath.cx</i>, physical device / low fidelity web server placed in <i>Prague</i> / Central Europe. The motivation of building own little server is rather symbolic and purely ideologic in this case.
+Welcome to <i>lab19.ath.cx</i>, physical device / low fidelity web server placed in <i>Prague</i> / Central Europe. The motivation of building this small server is rather symbolic and purely ideologic in this case.
 </p>
 </div>
 
@@ -164,7 +163,7 @@ if($contents==null){
 
 <div class="cell">
 
-<h1>recent coding activity 2011</h1>
+<h1>recent github activity</h1>
 <?
 /*
  * simple github json API
@@ -208,7 +207,7 @@ if($contents==null){
 <h1>fair use</h1>
 
 <p>
-Please feel free to share / copy / use / modify any of my works available online. If you would like to screen or modify some of my work and show publicly, please quote me -- either <i>Kof</i> or <i>Krystof Pesek</i> is perfectly OK.
+If you keep the licence, please feel free to share / copy / use / modify any of my work available online. If you would like to screen some of the work and show publicly, please quote me -- either <i>*kof*</i> (no asterisks) or the name in email contact it is perfectly OK.
 </p>
 
 
@@ -223,7 +222,7 @@ kof@<a href="http://vimeo.com/kof/videos/">vimeo.com</a>
 <h1>contact</h1>
 
 <p>
-For any questions etc. please do not hesitate to contact me:
+If you are sure that you act <i>*right way*</i>, please do what ever you want to my work, if you are unsure, please do not hesitate to contact me:
 </p>
 
 <p> 
@@ -231,9 +230,14 @@ For any questions etc. please do not hesitate to contact me:
 </p>
 
 <p>
-I am sorry I am unable to describe particular code <i>(dis)</i>functionalities. There are plenty of sketches, they are old and messy, I am trying to reversely write down at least some basic documentation, where it is possible.. it is really hard work for me to dig in. The obstruction of this process is a matter of lack of my long-term memory <i>(I don't remember, I don't know anything)</i> and time for doing so. Thanks for understanding.
+.. if you are sure that you act <i>*bad way*</i>, well, it is your problem, you can read more: <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a>.
 </p>
 
+<!--
+<p>
+I am sorry I am unable to describe particular code <i>(dis)</i>functionalities. There are plenty of sketches, they are old and messy, I am trying to reversely write down at least some basic documentation, where it is possible.. it is really hard work for me to dig in. The obstruction of this process is a matter of lack of my long-term memory <i>(I don't remember, I don't know anything)</i> and time for doing so. Thanks for understanding.
+</p>
+--!>
 <p>
 Any other questions, offers, comments and critics <i>(Česky nebo English)</i> are welcomed.
 </p>
