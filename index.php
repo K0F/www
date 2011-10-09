@@ -82,7 +82,7 @@ The most simple step you can do is just to act less probable, to do so, you can 
 </p>
 
 <p>
-Are you using some kind of <i>*social*</i> network, try decentralized and much more secure alternative, project <a href="https://pod.geraspora.de/">d</a><a href="https://my-seed.com/">i</a><a href="https://the.diasperse.com/">a</a><a href="http://li-la.de:3000/">s</a><a href="https://social.mathaba.net/">p</a><a href="http://podup.sargodarya.de/">o</a><a href="http://filiusdex.com/">r</a><a href="https://diasp.de/">a</a><a href="http://podupti.me/">!</a>
+Are you using some kind of <i>*social*</i> network, try decentralized and much more secure alternative, project <a href="http://foocorp.org/projects/social/">GNU social</a> or more <i>*hip*</i> <a href="https://pod.geraspora.de/">d</a><a href="https://my-seed.com/">i</a><a href="https://the.diasperse.com/">a</a><a href="http://li-la.de:3000/">s</a><a href="https://social.mathaba.net/">p</a><a href="http://podup.sargodarya.de/">o</a><a href="http://filiusdex.com/">r</a><a href="https://diasp.de/">a</a><a href="http://podupti.me/">!</a>
 </p>
 
 <p> Or act even less ordered way and try to find a minor crappy search engine <i>(by another search engine)</i> which preferably suits you the worst, randomness guranteed!
@@ -230,7 +230,7 @@ If you are sure that you act <i>*right way*</i>, please do what ever you want to
 </p>
 
 <p>
-.. if you are sure that you act <i>*bad way*</i>, well, it is your problem, you can read more: <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a>.
+.. if you are sure that you act <i>*bad way*</i>, well, it is your problem, to be certain, you can read more: <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a>.
 </p>
 
 <!--
@@ -256,8 +256,17 @@ build with: <a href="http://www.vim.org/">vim</a> / <a href="http://www.php.net/
 <td valign="top" width="50%">
 
 <div class="cell">
+<h1>Jev / Phenomenon</h1>
+
+<iframe src="http://player.vimeo.com/video/30264207?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="389" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
+<p>
+Phenomenon is a series of films dedicated to cinema screening, presence of film and human creation of object. It creates an experience of watching film as a pure fact. If you play this video on computer screen and you would like to simulate a cinema effect, please watch it with a sound volume high, preferably with few friends, in the dark room.
+</p>
+</div>
+
+<div class="cell">
 <h1>Perfect Illusion of Motion</h1>
-<iframe src="http://player.vimeo.com/video/28927645?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=1&amp;loop=1" width="389" height="258" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
+<iframe src="http://player.vimeo.com/video/28927645?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="389" height="258" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
 <p>
 Binaries in case of software outputs (executables, picture renders, video renders), technically doesn't contain a readable <i>"knowledge"</i> for <i>"next generations"</i>.
 </p>
