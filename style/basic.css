@@ -1,7 +1,8 @@
 body{
 	font-family: Georgia, "Liberation Serif", Serif, Verdana, "Liberation Sans", Arial;
 	font-size:12px;
-	background-image: url(../bck.gif);
+	background-color: #fff;
+	/* background-image: url(../bck.gif); */
 }
 
 tbody{
