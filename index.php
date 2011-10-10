@@ -74,11 +74,16 @@ the whole text is available @ <a href="http://www.libresociety.org/">libresociet
 </p>
 
 <p>
-Hit by random thorought? Try to build your <a href="http://www.bit-tech.net/bits/2007/06/05/build_your_own_server/1">own server</a>. <i>(find preferably completely another tutorial)</i>.
+Seriously hit by random thorought? Try to build your <a href="http://www.bit-tech.net/bits/2007/06/05/build_your_own_server/1">own server</a>. <i>(find preferably completely another tutorial)</i>.
 </p>
 
 <p>
 The most simple step you can do is just to act less probable, to do so, you can try this page <a href="http://randomwebsite.com/cgi-bin/random.pl">randomwebsite.org</a> or try for example a different search engine to discover another web-corners: <a href="https://duckduckgo.com/">DuckDuckGo!</a> <i>(find preferably completely another engine)</i>.
+</p>
+
+<p>
+You can act randomly even visiting one site and get a random information from it. Set your default web-browser page to i.e. pseudorandom page from wikipedia: <pre>http://en.wikipedia.org/wiki/Special:Randompage</pre>
+Try it here, it is <a href="http://en.wikipedia.org/wiki/Special:Randompage">briliant!</a>. Read <a href="http://www.labnol.org/software/random-browser-homepage/18813/">full article</a> by Amit Agarwal.
 </p>
 
 <p>
