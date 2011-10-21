@@ -70,7 +70,7 @@ the whole text is available @ <a href="http://www.libresociety.org/">libresociet
 
 <div class="cell">
 <h1>random thorought</h1>
-<p>When you think about wider consequences, the what we call <i>The Great Internet</i> today are in fact just a few physical <i>"places"</i> most of us are visiting over and over again. The less <i>random</i> people act, the greater probability there is that someone will control them; therefore the more mass manipulation we can expect. To create <i>"a healthier global network"</i> we definitely need more decentralized network, less data retention and a hard-core-secured communication by default.
+<p>When you think about wider consequences, the what we call <i>The Great Internet</i> today are in fact just a few physical <i>"places"</i> most of us are visiting over and over again. The less <i>random</i> people act, the greater probability there is that someone will control them; therefore the more mass manipulation we can expect. To create <i>"a healthier global network"</i> we definitely need more decentralized network, less data retention and a hard-core-secured communication by default (or no security at all!).
 </p>
 
 <p>
@@ -210,11 +210,11 @@ if($contents==null){
 <!-- //////////////////////////// --!>
 <div class="cell">
 <h1>fair use</h1>
-
 <p>
-If you keep the licence, please feel free to share / copy / use / modify any of my work available online. If you would like to screen some of the work and show publicly, please quote me -- either <i>*kof*</i> (no asterisks) or the name in email contact it is perfectly OK.
+There is no *fair use* of my work, do whatever you want with my work, this is an authors stance and it is superior to any further mentioned licensing.
 </p>
 
+all of my public works available online:
 
 <p class="sign">
 kof@<a href="http://openprocessing.org/portal/?userID=3942">openprocessing.org</a><br />
