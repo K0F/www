@@ -8,6 +8,7 @@ $num_of_commits = 20;
 
 <head>
 <title>kof @ lab19.ath.cx</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <meta name="decription" content="kof @ Lab19.ath.cx">
 <meta name="keywords" content="Krystof Pesek, kryštof pešek, kof, k0f, Processing, Prague, Czech Republic">
 <link href="style/basic.css" rel="stylesheet" type="text/css">
@@ -47,6 +48,8 @@ $num_of_commits = 20;
 <p>
 Welcome to <i>lab19.ath.cx</i>, physical device / low fidelity web server placed in <i>Prague</i> / Central Europe. The motivation of building this small server is rather symbolic and purely ideologic in this case.
 </p>
+
+
 </div>
 
 <div class="cell">
@@ -255,6 +258,10 @@ Please do not hesitate to contact me:
 
 </div>
 
+<div class="cell">
+<h1>a place you have just visited</h1>
+<img alt="this server is begind this doors, painted with pixel font red on b/w photography, with a picture of my grandfather, he was great man: Prof.Dr.Ing. Vlastimil Herout DrSc., člen korespondent ČSAV" src="imgs/serverBehindTheDoors.gif"/>
+</div>
 
 <div class="cell">
 
