@@ -331,21 +331,7 @@ So why the <b>free-open-source</b> conception in terms of archiving of software 
 
 
 <div class="cell">
-<h1>16:9 of something</h1>
 
-<iframe src="http://player.vimeo.com/video/27203486?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=0" width="390" height="219" frameborder="0"></iframe>
-
-<p>Linearity is an answer to linear questions only. As we are very good in observing linearity in abnormally complex natural behavior, sometimes it fails completely; so the human struct of the whole system start to miss the key for the reading, then the linearity gives no more sense anymore and this is the point where so called <i>complexity == not-understanding</i> comes into play; and where the imagination starts to supply more logically (linearly structured) parts of mind with completely new conceptions - afterwards perceived and named by logical parts of mind as the logical constructs.<br />
-<br />
-(the whole text is an off-topic notion and has nothing to do with the video above)<br />
-<p class="sign">
-Remake of: <a href="http://openprocessing.org/visuals/?visualID=30364">sketch</a> by Stephen Monslow</p>
-</p>
-</div>
-
-
-
-<div class="cell">
 
 <h1>wireworld</h1>
 
