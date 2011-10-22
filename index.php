@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
 <?
-$num_of_commits = 20;
+$num_of_commits = 4;
 ?>
 
 <html>
@@ -90,19 +90,39 @@ And even more systematically on <i>*free culture*</i>, please visit a <a href="h
 To create a <i>*healthier global network*</i> we definitely need:
 <ul>
 <li>
- more decentralization
+a lot more decentralization
 </li>
 <li>
-supress data retention
+to supress data retention
 </li>
 <li>
-secure communication by default <i>(or even better, no security at all!)</i>.
+secure communication by default <i>(or even better, no false feel of security at all!)</i>.
 </li>
 </ul> 
 </p>
 
 <p>
-Seriously hit by random thorought? Try to build your <a href="http://www.bit-tech.net/bits/2007/06/05/build_your_own_server/1">own server</a>. <i>(find preferably completely another tutorial)</i>.
+Seriously hit by random thorought?
+
+<ul>
+<li>
+Try to build your <a href="http://www.bit-tech.net/bits/2007/06/05/build_your_own_server/1">own server</a>. <i>(find preferably completely another tutorial ..this is not very probable, please continue reading below this list)</i>
+</li>
+<li>
+Support projects like <a href="https://www.torproject.org/">TOR</a> or even <a href="http://tails.boum.org/">TAILS</a>.<i>(the data retention has some value to the retentionist, but the value can be beaten in the great scale just by more common crypting, so the companies, governments, other leechers will think twice before expensive decrypting)</i>
+</li>
+<li>
+When you are online, you are like on the street or square, in a crowded place. Do not <i>*shout*</i> there, what you would never even say to a stranger! <i>(this is hard to realize as you are probably in private place, but this is slightly changing now and people are starting to realize this, I'am an optimist :) )</i>
+</li>
+</ul>
+</p>
+
+<p>
+Everytihing in this list is really nothing new / original. I am sorry for not citing properly. But if this can help one person to realize this <i>(even again)</i>, it is worth repeating.
+</p>
+
+<p>
+More on decentralization:
 </p>
 
 <p>
@@ -123,7 +143,7 @@ Are you using some kind of <i>*social*</i> network, try decentralized and much m
 
 <p style="font-size:10px;font-style:oblique;color:#777;">
 --<br />
-I am afraid we are completely unable to think nor to act random way, what we can do at maximum is just to think consequently less and less probable. There is no choice anyway.<br />
+I am afraid we are completely unable to think / act random way. What we can do is just to think consequently less and less probable. Well, there is no choice anyway, no choice at all :)<br />
 <p>
 
 
@@ -185,47 +205,6 @@ if($contents==null){
 }
 ?>
 
-</div>
-
-<div class="cell">
-
-<h1>recent github activity</h1>
-<?
-/*
- * simple github json API
- */
-
-//load json answer
-$contents = file_get_contents('http://github.com/api/v2/json/commits/list/K0F/2011/master?page=1');
-
-
-if($contents==null){
-	echo '<p>Same error here, you can reach all the recent acivity <a href="https://github.com/K0F">here</a></p>';
-}else{
-
-
-
-	//parse it
-	$commits = json_decode($contents,true);
-	$all = $commits['commits'];
-
-	for($i = 0 ; $i < $num_of_commits ;$i++){
-		$commit = $all[$i];
-
-		$message = $commit["message"];
-		$url = $commit["url"];
-		$id = $commit["id"];
-		$time = $commit["committed_date"];
-
-		//remove -07:00 regexp
-		$time = preg_replace('/T.*/', '',$time);
-		echo '<p class="quote">';
-		echo '<a href="http://github.com'.$url.'">'.$time.'</a>';
-		echo '   :: '.$message;
-		echo '</p>';
-	}
-}
-?>
 </div>
 
 <!-- //////////////////////////// --!>
