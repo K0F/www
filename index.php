@@ -260,7 +260,7 @@ Please do not hesitate to contact me:
 
 <div class="cell">
 <h1>a place you have just visited</h1>
-<img alt="this server is begind this doors, painted with pixel font red on b/w photography, with a picture of my grandfather, he was great man: Prof.Dr.Ing. Vlastimil Herout DrSc., člen korespondent ČSAV" src="imgs/serverBehindTheDoors.gif"/>
+<img alt="the picture: the server is behind the doors, painted with a 8px font coloured #F2583E on B/W photography of real place, picture above the doors is my grandfather, he was great man: Prof.Dr.Ing. Vlastimil Herout DrSc., člen korespondent ČSAV" src="imgs/serverBehindTheDoors.gif"/>
 </div>
 
 <div class="cell">
