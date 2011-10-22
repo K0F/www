@@ -242,7 +242,7 @@ Please do not hesitate to contact me:
 </p>
 
 <p> 
-<div class="mail"></div>
+<div alt="k r y s t o f . p e s e k @ g m a i l . c o m" class="mail"></div>
 </p>
 
 <p>
@@ -253,7 +253,7 @@ Please do not hesitate to contact me:
 
 <div class="cell">
 <h1>a place you have just visited</h1>
-<img alt="the picture: the server is behind the doors, painted with a 8px font coloured #F2583E on B/W photography of real place, picture above the doors is my grandfather, he was great man: Prof.Dr.Ing. Vlastimil Herout DrSc., člen korespondent ČSAV" src="imgs/serverBehindTheDoors.gif"/>
+<img alt="the picture: the server is behind the doors, painted with a 8px font coloured #F2583E on B/W photography of real place, picture above the doors is my grandfather, he was great man: Prof.Dr.Ing. Vlastimil Herout DrSc., člen korespondent ČSAV" src="imgs/serverBehindTheDoors.gif" title="*knock* *knock* ..this is just beginning, the world is going to be even more bizzare"/>
 </div>
 
 <div class="cell">
