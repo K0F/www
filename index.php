@@ -118,7 +118,7 @@ When you are online, you are like on the street or square, in a crowded place. D
 </p>
 
 <p>
-Everytihing in this list is really nothing new / original. I am sorry for not citing properly. But if this can help one person to realize this <i>(even again)</i>, it is worth repeating.
+Everything in this list is really nothing new / original. I am sorry for not citing properly. But if this can help one person to realize this <i>(even again)</i>, it is worth repeating.
 </p>
 
 <p>
