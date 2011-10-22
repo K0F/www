@@ -84,7 +84,10 @@ And even more systematically on <i>*free culture*</i>, please visit a <a href="h
 
 <div class="cell">
 <h1>random thorought</h1>
-<p>When you think about wider consequences, the what we call <i>The Great Internet</i> today are in fact just a few physical <i>"places"</i> most of us are visiting over and over again. The less <i>random</i> people act, the greater probability there is that someone will control them; therefore the more mass manipulation we can expect. To create <i>"a healthier global network"</i> we definitely need more decentralized network, less data retention and a hard-core-secured communication by default <i>(or no security at all!)</i>.
+<p>When you think about wider consequences, the what we call <i>The Great Internet</i> today are in fact just a few physical <i>"places"</i> most of us are visiting over and over again. The less <i>random</i> people act, the greater probability there is that someone will control them; therefore the more mass manipulation we can expect.
+</p>
+<p>
+To create a <i>*healthier global network*</i> we definitely need more decentralized network, less data retention and a hard-core-secured communication by default <i>(or no security at all!)</i>.
 </p>
 
 <p>
