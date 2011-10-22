@@ -46,7 +46,7 @@ $num_of_commits = 4;
 <div class="cell">
 <h1>welcome!</h1>
 <p>
-Welcome to <i>lab19.ath.cx</i>, physical device / low fidelity web server placed in <i>Prague</i> / Central Europe. The motivation of building this small server is rather symbolic and purely ideologic in this case.
+Please feel welcomed @ <i>lab19.ath.cx</i>, physical device / low-fidelity web-server placed in <a href="http://en.wikipedia.org/wiki/Praguehttp://en.wikipedia.org/wiki/Prague">Prague / Central Europe</a>. My name is kof, and my motivation to build such place is rather symbolic and ideologicial.
 </p>
 
 
@@ -69,8 +69,14 @@ the whole text is available @ <a href="http://www.libresociety.org/">libresociet
 
 
 <p>
-And even more systematically on <i>*free culture*</i>, please visit a <a href="http://randomfoo.net/oscon/2002/lessig/free.html">lecture</a> online, read a <a href="http://cyber.law.harvard.edu/node/217">book</a>. Support great effort of really creative people just by reading their work.
+And even more systematically on <i>*free culture*</i>, please visit a <a href="http://randomfoo.net/oscon/2002/lessig/free.html">lecture</a> online, read a <a href="http://cyber.law.harvard.edu/node/217">book</a>. It <i>*IS*</i> heavily ideological and definetely wroth reading <i>(ie. to disagree)</i>.
 </p>
+
+<!-- kof idiocy
+<p>
+If there is such thing as <i>*human culture*</i>; this is truly important: please, support a great efforts of those creative people who are speaking nowadays. It is so easy: you really help in hardly imaginable scale, just by listening carefully to those people who are really speaking, or to read their text.
+</p>
+--!>
 
 <p class="quote">
 "A free culture has been our past, but it will only be our future if we change the path we are on right now."
