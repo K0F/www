@@ -64,6 +64,17 @@ In response, we wish to defend the idea of a creative field of concepts and idea
 <i>-- David Berry, Giles Moss</i> <br/>
 the whole text is available @ <a href="http://www.libresociety.org/">libresociety.org</a>
 
+
+<p>
+And even more systematically on <i>*free culture*</i>, please visit a <a href="http://randomfoo.net/oscon/2002/lessig/free.html">lecture</a> online, read a <a href="http://cyber.law.harvard.edu/node/217">book</a>. Support great effort of really creative people just by reading their work.
+</p>
+
+<p class="quote">
+"A free culture has been our past, but it will only be our future if we change the path we are on right now."
+</p>
+
+<p class="sign">
+ -- <a href="http://cyber.law.harvard.edu/people/llessig">Lawrence Lessig</a>
 </p>
 </div>
 
@@ -98,13 +109,6 @@ Are you using some kind of <i>*social*</i> network, try decentralized and much m
 I am afraid we are completely unable to think nor to act random way, what we can do at maximum is just to think consequently less and less probable. There is no choice anyway.<br />
 <p>
 
-<!--
-For those, who are reading sources instead of frontpages random thorought no.2: http://ccs.mit.edu/papers/CCSWP197/CCSWP197.html ..interesting paper
-!-->
-
-<p class="sign">
-<i>--kof</i>
-</p>
 
 </div>
 
@@ -113,12 +117,12 @@ For those, who are reading sources instead of frontpages random thorought no.2: 
 <h1>kof's manifesto</h1>
 
 <p>
-If there is any source code of my work, there is no owner including myself. Binary outputs can be either sold or collected, whatever. But sources are available to anyone. It is completely public domain and it will remain.
+If there is any source code of my work, there is no owner including myself. All such <i>*code*</i> is available to anyone. It is public domain and it will remain!
 </p>
 
 
 <p class="sign">
-all of them are available @ <a href="https://github.com/K0F">github.com</a>
+Krystof Pesek / Kof, <i>2011</i></a>
 </p>
 </div>
 
@@ -211,14 +215,25 @@ if($contents==null){
 <div class="cell">
 <h1>fair use</h1>
 <p>
-There is no *fair use* of my work, do whatever you want with my work, this is an authors stance and it is superior to any further mentioned licensing.
+There is no <i>*fair use*</i> of my work, do whatever you want to my work, this is an <i>*author's*</i> stance and it is superior to any further mentioned licensing.
 </p>
 
-all of my public works available online:
 
 <p class="sign">
-kof@<a href="http://openprocessing.org/portal/?userID=3942">openprocessing.org</a><br />
-kof@<a href="http://vimeo.com/kof/videos/">vimeo.com</a>
+
+
+..all of my public works available online:
+<ul>
+<li>
+kof @ <a href="http://openprocessing.org/portal/?userID=3942">openprocessing.org</a><br />
+</li>
+<li>
+kof @ <a href="http://vimeo.com/kof/videos/">vimeo.com</a><br />
+</li>
+<li>
+kof @ <a href="https://github.com/K0F">github.com</a>
+</li>
+</ul>
 </p>
 </div>
 
@@ -227,7 +242,7 @@ kof@<a href="http://vimeo.com/kof/videos/">vimeo.com</a>
 <h1>contact</h1>
 
 <p>
-If you are sure that you act <i>*right way*</i>, please do what ever you want to my work, if you are unsure, please do not hesitate to contact me:
+Please do not hesitate to contact me:
 </p>
 
 <p> 
@@ -235,17 +250,9 @@ If you are sure that you act <i>*right way*</i>, please do what ever you want to
 </p>
 
 <p>
-.. if you are sure that you act <i>*bad way*</i>, well, it is your problem, to be certain, you can read more: <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a>.
+..for questions, comments and critics <i>(Česky nebo English)</i> anything is welcomed.
 </p>
 
-<!--
-<p>
-I am sorry I am unable to describe particular code <i>(dis)</i>functionalities. There are plenty of sketches, they are old and messy, I am trying to reversely write down at least some basic documentation, where it is possible.. it is really hard work for me to dig in. The obstruction of this process is a matter of lack of my long-term memory <i>(I don't remember, I don't know anything)</i> and time for doing so. Thanks for understanding.
-</p>
---!>
-<p>
-Any other questions, offers, comments and critics <i>(Česky nebo English)</i> are welcomed.
-</p>
 </div>
 
 
