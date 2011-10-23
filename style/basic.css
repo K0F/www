@@ -1,5 +1,5 @@
 body{
-	font-family: Georgia, "Liberation Serif", Serif, Verdana, "Liberation Sans", Arial;
+	font-family: Georgia, "Liberation Serif", Georgia, Serif, "Liberation Sans", Arial;
 	font-size:12px;
 	background-color: #fff;
 	background-image: url(../flickr.gif);
@@ -7,14 +7,14 @@ body{
 
 tbody{
 	font-size: 12px;
-	font-family: Georgia, "Liberation Serif", Serif, Verdana, "Liberation Sans", Arial;
+	font-family: Georgia, "Liberation Serif", Georgia, Serif, "Liberation Sans", Arial;
 }
 
 
 
 h1{
 	font-size:3em;
-	color: #777777;
+	color: #F2583E;
 	font-style: oblique;
 	line-height: 20px;
 }

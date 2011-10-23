@@ -2,6 +2,7 @@
 
 <?
 $num_of_commits = 4;
+$back = rand(1,359);//date('h')+date('m')+date('s');
 ?>
 
 <html>
@@ -15,10 +16,12 @@ $num_of_commits = 4;
 </head>
 
 
-
-
+<?
+echo '<body lang="en-US" dir="ltr" style="background-image:url(imgs/human/img'.sprintf('%03d',$back).'.gif)">';
+?>
+<!--
 <body lang="en-US" dir="ltr">
-
+--!>
 
 <table align="center" width="800" cellpadding="5">
 
@@ -46,7 +49,7 @@ $num_of_commits = 4;
 <div class="cell">
 <h1>welcome!</h1>
 <p>
-Please feel welcomed @ <i>lab19.ath.cx</i>, physical device / low-fidelity web-server placed in <a href="http://en.wikipedia.org/wiki/Praguehttp://en.wikipedia.org/wiki/Prague">Prague / Central Europe</a>. My name is kof, and my motivation to build such place is rather symbolic and ideologicial.
+Please feel welcomed @ <i>lab19.ath.cx</i>, physical device / low-fidelity web-server placed in <a href="http://en.wikipedia.org/wiki/Praguehttp://en.wikipedia.org/wiki/Prague">Prague / Central Europe</a>. My name is kof, and my motivation to virtually build such place is rather symbolic and ideologicial.
 </p>
 
 
@@ -124,7 +127,7 @@ When you are online, you are like on the street or square, in a crowded place. D
 </p>
 
 <p>
-Everything in this list is really nothing new / original. I am sorry for not citing properly. But if this can help one person to realize this <i>(even again)</i>, it is worth repeating.
+Everything in this list is really nothing new / original. But if this can help one person to realize this <i>(even again)</i>, it is worth repeating.
 </p>
 
 <p>
