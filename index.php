@@ -78,7 +78,7 @@ the whole text is available @ <a href="http://www.libresociety.org/">libresociet
 </p>
 
 <p>
-And even more systematically on <i>*free culture*</i>, please visit a <a href="http://randomfoo.net/oscon/2002/lessig/free.html">lecture</a> online, read a <a href="http://cyber.law.harvard.edu/node/217">book</a>. It <i>*IS*</i> heavily ideological and definetely wroth reading <i>(ie. to disagree)</i>.
+And more systematically on <i>*free culture*</i>, please visit a <a href="http://randomfoo.net/oscon/2002/lessig/free.html">lecture</a> online, read a <a href="http://cyber.law.harvard.edu/node/217">book</a>. It <i>*IS*</i> heavily ideological and definetely wroth reading <i>(ie. to disagree)</i>.
 </p>
 
 <!-- kof idiocy
@@ -109,7 +109,7 @@ More on theme of Intellectual Property and licencing:
 </li>
 
 <li>
-<a href="http://www.mises.org/journals/jls/15_2/15_2_1.pdf">N .Stephan Kinsella</a>
+<a href="http://www.mises.org/journals/jls/15_2/15_2_1.pdf">N. Stephan Kinsella</a>
 </li>
 
 <li>
@@ -167,7 +167,7 @@ When you are online, you are like on the street or square, in a crowded place. D
 </p>
 
 <p>
-Everything in this list is really nothing new / original. But if this can help one person to realize this <i>(even again)</i>, it is worth repeating.
+Everything in this list is really nothing new / original. But if this can help <i>*one*</i> person to realize this <i>(even again)</i>, it is worth repeating.
 </p>
 
 <p>
