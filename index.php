@@ -55,7 +55,7 @@ echo '<div style="position:absolute;left:0;top:0;width:100%;height:100%;opacity:
 <div class="cell">
 <h1>welcome!</h1>
 <p>
-Please feel welcomed @ <i>lab19.ath.cx</i>, physical device / low-fidelity web-server placed in <a href="http://en.wikipedia.org/wiki/Praguehttp://en.wikipedia.org/wiki/Prague">Prague / Central Europe</a>. My name is kof, and my motivation to virtually build such place is rather symbolic and ideologicial.
+Please feel welcomed @ <i>lab19.ath.cx</i>, physical device / low-fidelity web-server placed in Prague / <a href="http://en.wikipedia.org/wiki/Central_Europe">Central Europe</a>. My name is kof, and my motivation to virtually build such place is rather symbolic and ideologicial.
 </p>
 
 
