@@ -260,7 +260,7 @@ if($contents==null){
 <div class="cell">
 <h1>fair use</h1>
 <p>
-I hope that I have a right to say: there is no <i>*fair use*</i> of my work, do whatever you want to my work, this is an <i>*author's*</i> stance and it is superior to any further mentioned licensing. To understand this stance please read more about <a href="http://www.gnu.org/copyleft/copyleft.html">copyleft</a>
+I hope that I have a right to say: there is no <i>*fair use*</i> of my work, do whatever you want to my work, this is an <i>*author's*</i> stance and it is superior to any further mentioned licensing. To understand this stance precisely, please read more about <a href="http://www.gnu.org/copyleft/copyleft.html">copyleft</a>, this stance is well described here as a <i>*Public Domain / uncopyrighted*</i> work.
 </p>
 
 
