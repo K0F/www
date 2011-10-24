@@ -75,7 +75,7 @@ In response, we wish to defend the idea of a creative field of concepts and idea
 <p class="sign">
 <i>-- David Berry, Giles Moss</i> <br/>
 the whole text is available @ <a href="http://www.libresociety.org/">libresociety.org</a>
-
+</p>
 
 <p>
 And even more systematically on <i>*free culture*</i>, please visit a <a href="http://randomfoo.net/oscon/2002/lessig/free.html">lecture</a> online, read a <a href="http://cyber.law.harvard.edu/node/217">book</a>. It <i>*IS*</i> heavily ideological and definetely wroth reading <i>(ie. to disagree)</i>.
@@ -94,6 +94,36 @@ If there is such thing as <i>*human culture*</i>; this is truly important: pleas
 <p class="sign">
  -- <a href="http://cyber.law.harvard.edu/people/llessig">Lawrence Lessig</a>
 </p>
+
+<p>
+More on theme of Intellectual Property and Licencing:
+
+<ul>
+
+<li>
+<a href="http://www.tomgpalmer.com/wp-content/uploads/papers/palmer-morallyjustified-harvard-v13n3.pdf">Tom G. Palmer</a>
+</li>
+
+<li>
+<a href="http://www.mises.org/journals/jls/15_2/15_2_1.pdf">N .Stephan Kinsella</a>
+</li>
+
+<li>
+<a href="http://www.dailyapology.com/2005/10/palmer-on-patents.html">Kinsella on Palmer</a>
+</li>
+
+<li>
+<a href="http://c4ss.org/wp-content/uploads/2009/05/intellectual-property-a-libertarian-critique.pdf">Kevin Carson</a>
+</li>
+
+</ul>
+
+</p>
+
+<p>
+And finally, Richard Stallman and his notes on particular <a href="http://www.gnu.org/licenses/license-list.html#Expat">licences</a>.
+</p>
+
 </div>
 
 
@@ -226,7 +256,7 @@ if($contents==null){
 <div class="cell">
 <h1>fair use</h1>
 <p>
-There is no <i>*fair use*</i> of my work, do whatever you want to my work, this is an <i>*author's*</i> stance and it is superior to any further mentioned licensing.
+I hope that I have a right to say: there is no <i>*fair use*</i> of my work, do whatever you want to my work, this is an <i>*author's*</i> stance and it is superior to any further mentioned licensing. To understand this stance please read more about <a href="http://www.gnu.org/copyleft/copyleft.html">copyleft</a>
 </p>
 
 
