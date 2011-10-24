@@ -2,7 +2,7 @@
 
 <?
 $num_of_commits = 4;
-$back = rand(1,359);//date('h')+date('m')+date('s');
+$back = rand(1,300);//date('h')+date('m')+date('s');
 ?>
 
 <html>
@@ -17,11 +17,17 @@ $back = rand(1,359);//date('h')+date('m')+date('s');
 
 
 <?
-echo '<body lang="en-US" dir="ltr" style="background-image:url(imgs/human/img'.sprintf('%03d',$back).'.gif)">';
+
+echo '<body lang="en-US" dir="ltr" style="background-image:url(imgs/human/img'.sprintf('%03d',$back).'.png);">';
+
 ?>
-<!--
+
 <body lang="en-US" dir="ltr">
---!>
+<?
+;/*
+echo '<div style="position:absolute;left:0;top:0;width:100%;height:100%;opacity:40;filter:alpha(opacity=40);background-image:url(imgs/human/img'.sprintf('%03d',$back).'.gif)"></div>';
+*/
+?>
 
 <table align="center" width="800" cellpadding="5">
 
