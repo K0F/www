@@ -57,8 +57,8 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Colo
 	border-color: #cacaca;
 	/*display: inline-block;*/
 
-	background-color:#b0c4de;
-background:  url("../imgs/shade.png") repeat-x bottom left, url("../imgs/shadeTop.png") repeat-x top left, url("../bck2.gif") repeat top left;
+	background-color:#ffffff;
+background:  url("../imgs/shade.png") repeat-x bottom left, url("../imgs/shadeTop.png") repeat-x top left, #ffffff;
 
 
 }

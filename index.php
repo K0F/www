@@ -96,12 +96,16 @@ If there is such thing as <i>*human culture*</i>; this is truly important: pleas
 </p>
 
 <p>
-More on theme of Intellectual Property and Licencing:
+More on theme of Intellectual Property and licencing:
 
 <ul>
 
 <li>
 <a href="http://www.tomgpalmer.com/wp-content/uploads/papers/palmer-morallyjustified-harvard-v13n3.pdf">Tom G. Palmer</a>
+</li>
+
+<li>
+<a href="http://lysanderspooner.org/node/10">Lysander Spooner</a>
 </li>
 
 <li>
@@ -204,7 +208,7 @@ If there is any source code of my work, there is no owner including myself. All 
 
 
 <p class="sign">
-Krystof Pesek / Kof, <i>2011</i></a>
+Krystof Pesek / Kof, paradox signature, <i>2011</i></a>
 </p>
 </div>
 
