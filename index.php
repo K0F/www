@@ -11,7 +11,7 @@ $back = rand(1,300);//date('h')+date('m')+date('s');
 <title>kof @ lab19.ath.cx</title>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <meta name="decription" content="kof @ Lab19.ath.cx">
-<meta name="keywords" content="Krystof Pesek, kryštof pešek, kof, k0f, Processing, Prague, Czech Republic">
+<meta name="keywords" content="kof, k0f, Processing, Prague, Czech Republic">
 <link href="style/basic.css" rel="stylesheet" type="text/css">
 </head>
 
@@ -208,7 +208,7 @@ If there is any source code of my work, there is no owner including myself. All 
 
 
 <p class="sign">
-Krystof Pesek / Kof, paradox signature, <i>2011</i></a>
+Kof, paradox signature, <i>2011</i></a>
 </p>
 </div>
 
