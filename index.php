@@ -291,7 +291,7 @@ Please do not hesitate to contact me:
 </p>
 
 <p> 
-<div alt="k r y s t o f . p e s e k @ g m a i l . c o m" class="mail"></div>
+<div alt="c h r i s t o f f o n @ g m a i l . c o m" class="mail"></div>
 </p>
 
 <p>
