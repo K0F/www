@@ -3,6 +3,7 @@
 <?
 $num_of_commits = 4;
 $back = rand(1,300);//date('h')+date('m')+date('s');
+$place = rand(0,100);
 ?>
 
 <html>
@@ -55,10 +56,14 @@ echo '<div style="position:absolute;left:0;top:0;width:100%;height:100%;opacity:
 <div class="cell">
 <h1>welcome!</h1>
 <p>
-Please feel welcomed @ <i>lab19.ath.cx</i>, physical device / low-fidelity web-server placed in Prague / <a href="http://en.wikipedia.org/wiki/Central_Europe">Central Europe</a>. My name is kof, and my motivation to virtually build such place is rather symbolic and ideologicial.
+Please feel welcomed @ <i>lab19.ath.cx</i>, physical device / low-fidelity web-server placed in Bohemia. My name is kof, and my motivation to build such place is rather symbolic and ideologicial.
+
 </p>
 
-
+<img src="imgs/map_of_bohemia.jpg" width="390" alt="map of Bohemia"/>
+<!--
+<img src="imgs/labPlacementHistorical.png" alt="a map">
+--!>
 </div>
 
 <div class="cell">
@@ -308,6 +313,8 @@ Please do not hesitate to contact me:
 
 <div class="cell">
 <h1>a place you have just visited</h1>
+
+
 <img alt="the picture: the server is behind the doors, painted with a 8px font coloured #F2583E on B/W photography of real place, picture above the doors is my grandfather, he was great man: Prof.Dr.Ing. Vlastimil Herout DrSc., člen korespondent ČSAV" src="imgs/serverBehindTheDoors.gif" title="*knock* *knock* ..this is just beginning, the world is going to be even more bizzare"/>
 </div>
 
