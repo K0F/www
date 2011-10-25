@@ -264,7 +264,7 @@ I hope that I have a right to say: there is no <i>*fair use*</i> of my work, do 
 </p>
 
 
-<p class="sign">
+<p>
 
 
 ..all of my public works available online:
@@ -280,6 +280,12 @@ kof @ <a href="https://github.com/K0F">github.com</a>
 </li>
 </ul>
 </p>
+
+<p class="sign">
+<i>-- paradox signature, Kof, 2011</i>
+</p>
+
+
 </div>
 
 
