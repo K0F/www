@@ -2,8 +2,8 @@
 
 <?
 $num_of_commits = 4;
-$back = rand(1,300);//date('h')+date('m')+date('s');
-$place = rand(0,100);
+$trueRandom = (int)file_get_contents("http://www.random.org/integers/?num=1&min=1&max=300&col=1&base=10&format=plain&rnd=new");
+$back = $trueRandom;//date('h')+date('m')+date('s');
 ?>
 
 <html>
@@ -265,7 +265,7 @@ if($contents==null){
 <div class="cell">
 <h1>fair use</h1>
 <p>
-I hope that I have a right to say: there is no <i>*fair use*</i> of my work, do whatever you want to my work, this is an <i>*author's*</i> stance and it is superior to any further mentioned licensing. To understand this stance precisely, please read more about <a href="http://www.gnu.org/copyleft/copyleft.html">copyleft</a>, this stance is well described here as a <i>*Public Domain / uncopyrighted*</i> work.
+I hope that I have a right to say: there is no <i>*fair use*</i> of my work, do whatever you consider <i>*fair*</i> with it. This is an <i>*author's*</i> stance and it is superior over any further mentioned licensing. To understand this stance precisely, please read more about <a href="http://www.gnu.org/copyleft/copyleft.html">copyleft</a>, this stance is well described here as a <i>*Public Domain / uncopyrighted*</i> work.
 </p>
 
 
