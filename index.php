@@ -223,7 +223,7 @@ Kof, paradox signature, <i>2011</i></a>
 
 
 <p>
-There is a list of commits made to the source of this page hosted on github, quite weird isn't it? :)
+There is a list of commits made to the source of this page hosted on github.
 </p>
 
 <?
