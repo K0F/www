@@ -339,6 +339,17 @@ The map of Bohemia: <br />drawn by Gelett Burgess In literary magazine, <a href=
 <!-- RIGHT ROW --!>
 <td valign="top" width="50%">
 
+
+<div class="cell">
+<h1>The change (series)</h1>
+<iframe src="http://player.vimeo.com/video/30986644?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=1&amp;loop=1" width="389" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
+<p>
+The change is the series of short films captured impulsively. It comments the fact; trying to capture a necessity of never-ending process we call the change. The form remains unchanged.. so far.
+</p>
+
+
+</div>
+
 <div class="cell">
 <h1>Jev / Phenomenon</h1>
 
