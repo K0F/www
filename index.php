@@ -341,17 +341,16 @@ The map of Bohemia: <br />drawn by Gelett Burgess In literary magazine, <a href=
 
 
 <div class="cell">
-<h1>The change (series)</h1>
+<h1>The change (open series)</h1>
 <iframe src="http://player.vimeo.com/video/30986644?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=1&amp;loop=1" width="389" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
 <p>
-The change is the series of short films captured impulsively. It comments the fact; trying to capture a necessity of never-ending process we call the change. The form remains unchanged.. so far.
+The change is a series of short films captured impulsively. The form remains more-less unchanged.. so far.
 </p>
-
 
 </div>
 
 <div class="cell">
-<h1>Jev / Phenomenon</h1>
+<h1>Jev / Phenomenon (series)</h1>
 
 <iframe src="http://player.vimeo.com/video/30264207?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="389" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
 <p>
@@ -425,7 +424,7 @@ So why the <b>free-open-source</b> conception in terms of archiving of software 
 
 
 <div class="cell">
-<h1>the change</h1>
+<h1>the change (open series)</h1>
 
 <iframe src="http://player.vimeo.com/video/14564533?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=0" width="389" height="219" frameborder="0"></iframe><p>Ode to change. A change as a necessity to perceive. The Change is a word which is trying to describe / capture? (to stop in the way) some current happening.</p>
 </div>
