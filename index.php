@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
 <?
-$num_of_commits = 4;
+$num_of_commits = 19;
 $trueRandom = (int)file_get_contents("http://www.random.org/integers/?num=1&min=1&max=300&col=1&base=10&format=plain&rnd=new");
 $back = $trueRandom;//date('h')+date('m')+date('s');
 ?>
@@ -241,7 +241,9 @@ if($contents==null){
 	//parse it
 	$commits = json_decode($contents,true);
 	$all = $commits['commits'];
-
+	
+	echo '<p class="quote">';
+	echo '<ul>';
 	for($i = 0 ; $i < $num_of_commits ;$i++){
 		$commit = $all[$i];
 
@@ -252,11 +254,14 @@ if($contents==null){
 
 		//remove -07:00 regexp
 		$time = preg_replace('/T.*/', '',$time);
-		echo '<p class="quote">';
+		
+		echo '<li>';
 		echo '<a href="http://github.com'.$url.'">'.$time.'</a>';
-		echo '   :: '.$message;
-		echo '</p>';
+		echo '<i>   :: '.$message.'</i>';
+		echo '</li>';
 	}
+	echo '</ul>';
+	echo '</p>';
 }
 ?>
 
@@ -341,8 +346,30 @@ The map of Bohemia: <br />drawn by Gelett Burgess In literary magazine, <a href=
 
 
 <div class="cell">
+<h1>untitled</h1>
+<iframe src="http://player.vimeo.com/video/31371017?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=1&amp;loop=1" width="389" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
+<p>
+Trigonometry primer. This program has been written under heavy influence of itself to its creator.. please do not ask me what the hell it is. 
+</p>
+
+<p>
+<ul>
+<li>
+<a href="http://www.openprocessing.org/visuals/?visualID=44151">applet</a>
+</li>
+<li>
+<a href="https://github.com/K0F/2011/tree/master/10-rijen/visOhm2">source</a>
+</li>
+</ul>
+
+</p>
+
+</div>
+
+
+<div class="cell">
 <h1>The change (open series)</h1>
-<iframe src="http://player.vimeo.com/video/30986644?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=1&amp;loop=1" width="389" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
+<iframe src="http://player.vimeo.com/video/30986644?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="389" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
 <p>
 The change is a series of short films captured impulsively. The form remains more-less unchanged.. so far.
 </p>
