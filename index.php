@@ -349,7 +349,7 @@ The map of Bohemia: <br />drawn by Gelett Burgess In literary magazine, <a href=
 <h1>untitled</h1>
 <iframe src="http://player.vimeo.com/video/31371017?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=1&amp;loop=1" width="389" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
 <p>
-Trigonometry primer. This program has been written under heavy influence of itself to its creator.. please do not ask me what the hell it is. 
+Trigonometry primer. This program has been written under heavy influence of itself to its creator..  
 </p>
 
 <p>
@@ -377,7 +377,7 @@ The change is a series of short films captured impulsively. The form remains mor
 </div>
 
 <div class="cell">
-<h1>Jev / Phenomenon (series)</h1>
+<h1>Jev / Phenomenon (3/3)</h1>
 
 <iframe src="http://player.vimeo.com/video/30264207?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="389" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
 <p>
