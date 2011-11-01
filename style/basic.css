@@ -73,11 +73,11 @@ color: #2B3E42;
        font-weight: bold;
        line-height: 33%;
        word-spacing: normal;
-       letter-spacing: normal;
+       letter-spacing: -1px;
        text-decoration: none;
        text-transform: lowercase;
        text-align: left;
-       text-indent: 0ex;
+       text-indent: 0.75ex;
 }
 
 .cell p{
