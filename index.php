@@ -121,7 +121,7 @@ And finally and very systematically on <i>*free culture*</i> <a href="http://ran
 </p>
 
 <p>
-It <i>IS</i> heavily ideological and definetely <i>WROTH READING. (ie. to disagree)</i>
+It <i>IS</i> heavily ideological and definetely <i>WORTH READING. (ie. to disagree)</i>
 </p>
 
 <p class="quote">
