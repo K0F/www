@@ -83,7 +83,7 @@ the whole text is available @ <a href="http://www.libresociety.org/">libresociet
 </p>
 
 <p>
-<i>Richard Stallman</i> and his notes on particular <a href="http://www.gnu.org/licenses/license-list.html#Expat">licences</a>.
+<i>Richard Stallman</i> and his notes on particular <a href="http://www.gnu.org/licenses/license-list.html">licences</a>.
 </p>
 
 <p>
