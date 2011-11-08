@@ -346,8 +346,44 @@ The map of Bohemia: <br />drawn by Gelett Burgess In literary magazine, <a href=
 
 
 <div class="cell">
+
+<h1>Harmonograph</h1>
+
+<iframe src="http://player.vimeo.com/video/31769570?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="390" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
+
+<ul>
+<li>
+<a href="openprocessing.org/visuals/?visualID=45356">applet</a>
+<li>
+<a href="https://github.com/K0F/2011/tree/master/11-listopad/asemicContruction">full source</a>
+</li>
+<li>
+<a href="http://dinisnoise.org/">sound generator used</a>
+
+</li>
+</ul>
+
+<p class="quote">
+A harmonograph is a mechanical apparatus that employs pendulums to create a geometric image. The drawings created typically are Lissajous curves, or related drawings of greater complexity.
+</p>
+
+<img src="imgs/harmonograph.png"/>
+
+<p class="quote">
+The devices, which began to appear in the mid-19th century and peaked in popularity in the 1890s, cannot be conclusively attributed to a single person, although Hugh Blackburn, a professor of mathematics at the University of Glasgow, is commonly believed to be the official inventor.
+</p>
+
+<p class="sign">
+-- wikipedia <a href="http://en.wikipedia.org/wiki/Harmonograph">source</a>
+</p>
+
+
+</div>
+
+
+<div class="cell">
 <h1>untitled</h1>
-<iframe src="http://player.vimeo.com/video/31371017?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=1&amp;loop=1" width="389" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
+<iframe src="http://player.vimeo.com/video/31371017?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="389" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
 <p>
 Trigonometry primer. This program has been written under heavy influence of itself to its creator..  
 </p>
@@ -365,6 +401,7 @@ Trigonometry primer. This program has been written under heavy influence of itse
 </p>
 
 </div>
+
 
 
 <div class="cell">
