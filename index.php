@@ -331,7 +331,7 @@ Please do not hesitate to contact me:
 <APPLET CODE="ttyplayer.class"
         CODEBASE="/ttyplayer"
         WIDTH="390"
-        HEIGHT="400">
+        HEIGHT="462">
   <PARAM NAME="TTYFILE" VALUE="ttyrecord">
   <PARAM NAME="SPEED" VALUE="1">
   <PARAM NAME="REPEAT" VALUE="TRUE">
@@ -342,6 +342,15 @@ Please do not hesitate to contact me:
 <p>
 The dream to be completely open. This is far beyond any open-source conception. This can be considered as a web performance.
 </p>
+
+<p>
+You can read more about this wonderful application playing *nix ttyrec files by Hirotsugu Kakugawa @ <a href="http://www-masu.ist.osaka-u.ac.jp/~kakugawa/misc/ttyplayer/index-en.shtml">jp</a>.
+</p>
+
+<p class="sign">
+Raw bash poetry! ))
+</p>
+
 </div>
 
 
