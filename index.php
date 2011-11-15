@@ -324,22 +324,6 @@ Please do not hesitate to contact me:
 <img alt="the picture: the server is behind the doors, painted with a 8px font coloured #F2583E on B/W photography of real place, picture above the doors is my grandfather, he was great man: Prof.Dr.Ing. Vlastimil Herout DrSc., člen korespondent ČSAV" src="imgs/serverBehindTheDoors.gif" title="*knock* *knock* ..this is just beginning, the world is going to be even more bizzare"/>
 </div>
 
-<div class="cell">
-
-<p class="sign">
-build with: <a href="http://www.vim.org/">vim</a> / <a href="http://www.php.net/">php</a> / <a href="http://httpd.apache.org/">apache</a> / <a href="http://git-scm.com/">git</a> / <a href="http://code.google.com/p/grafx2/">grafx</a> and mostly <a href="http://processing.org/">processing</a>
-</p>
-
-<p class="sign">
-background images are stolen from: <br /> <a href="http://msis.jsc.nasa.gov/">NASA-STD-3001</a> <br /> 
-<i>*Space flight Human-System Standart Volumes 1</i> [Crew Health]*
-</p>
-
-<p class="sign">
-The map of Bohemia: <br />drawn by Gelett Burgess In literary magazine, <a href="http://en.wikipedia.org/wiki/File:Gelett_Burgess_-_Map_of_Bohemia_1896.jpg">wikipedia citation</a><br /><i>In *The Lark*, Number 12, March 1, 1896</i>
-</p>
-</div>
-
 
 <div class="cell">
 <h1>last remote session</h1>
@@ -355,6 +339,27 @@ The map of Bohemia: <br />drawn by Gelett Burgess In literary magazine, <a href=
   <!--PARAM NAME="REVERSE-VIDEO" VALUE="TRUE"-->
 </APPLET>
 
+<p>
+The dream to be completely open. This is far beyond any open-source conception. This can be considered as a web performance.
+</p>
+</div>
+
+
+
+<div class="cell">
+
+<p class="sign">
+build with: <a href="http://www.vim.org/">vim</a> / <a href="http://www.php.net/">php</a> / <a href="http://httpd.apache.org/">apache</a> / <a href="http://git-scm.com/">git</a> / <a href="http://code.google.com/p/grafx2/">grafx</a> and mostly <a href="http://processing.org/">processing</a>
+</p>
+
+<p class="sign">
+background images are stolen from: <br /> <a href="http://msis.jsc.nasa.gov/">NASA-STD-3001</a> <br /> 
+<i>*Space flight Human-System Standart Volumes 1</i> [Crew Health]*
+</p>
+
+<p class="sign">
+The map of Bohemia: <br />drawn by Gelett Burgess In literary magazine, <a href="http://en.wikipedia.org/wiki/File:Gelett_Burgess_-_Map_of_Bohemia_1896.jpg">wikipedia citation</a><br /><i>In *The Lark*, Number 12, March 1, 1896</i>
+</p>
 </div>
 
 
