@@ -342,7 +342,7 @@ The map of Bohemia: <br />drawn by Gelett Burgess In literary magazine, <a href=
 
 
 <div class="cell">
-<h1>... and very absurdum !?</h1>
+<h1>last remote session</h1>
 
 <APPLET CODE="ttyplayer.class"
         CODEBASE="/ttyplayer"
