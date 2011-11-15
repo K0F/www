@@ -331,7 +331,7 @@ Please do not hesitate to contact me:
 <APPLET CODE="ttyplayer.class"
         CODEBASE="/ttyplayer"
         WIDTH="390"
-        HEIGHT="462">
+        HEIGHT="448">
   <PARAM NAME="TTYFILE" VALUE="ttyrecord">
   <PARAM NAME="SPEED" VALUE="1">
   <PARAM NAME="REPEAT" VALUE="TRUE">
@@ -340,7 +340,7 @@ Please do not hesitate to contact me:
 </APPLET>
 
 <p>
-The dream to be completely open. This is far beyond any open-source conception. This can be considered as a web performance.
+This is starting to be close to a dream to be completely open. This is far beyond any open-source conception.. it is starting to be exhibicionism, so this can be now considered as a web performance.
 </p>
 
 <p>
