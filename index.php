@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
 <?
-$num_of_commits = 19;
+$num_of_commits = 30;
 $trueRandom = (int)file_get_contents("http://www.random.org/integers/?num=1&min=1&max=300&col=1&base=10&format=plain&rnd=new");
 $back = $trueRandom;//date('h')+date('m')+date('s');
 ?>
@@ -341,6 +341,24 @@ The map of Bohemia: <br />drawn by Gelett Burgess In literary magazine, <a href=
 </div>
 
 
+<div class="cell">
+<h1>... and very absurdum !?</h1>
+
+<APPLET CODE="ttyplayer.class"
+        CODEBASE="/ttyplayer"
+        WIDTH="390"
+        HEIGHT="400">
+  <PARAM NAME="TTYFILE" VALUE="ttyrecord">
+  <PARAM NAME="SPEED" VALUE="1">
+  <PARAM NAME="REPEAT" VALUE="TRUE">
+  <PARAM NAME="TOOLBAR" VALUE="TRUE">
+  <!--PARAM NAME="REVERSE-VIDEO" VALUE="TRUE"-->
+</APPLET>
+
+</div>
+
+
+
 <!-- RIGHT ROW --!>
 <td valign="top" width="50%">
 
@@ -348,20 +366,6 @@ The map of Bohemia: <br />drawn by Gelett Burgess In literary magazine, <a href=
 <div class="cell">
 
 <h1>Harmonograph</h1>
-
-<iframe src="http://player.vimeo.com/video/31769570?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="390" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
-
-<ul>
-<li>
-<a href="openprocessing.org/visuals/?visualID=45356">applet</a>
-<li>
-<a href="https://github.com/K0F/2011/tree/master/11-listopad/asemicContruction">full source</a>
-</li>
-<li>
-<a href="http://dinisnoise.org/">sound generator used</a>
-
-</li>
-</ul>
 
 <p class="quote">
 A harmonograph is a mechanical apparatus that employs pendulums to create a geometric image. The drawings created typically are Lissajous curves, or related drawings of greater complexity.
@@ -375,6 +379,23 @@ The devices, which began to appear in the mid-19th century and peaked in popular
 
 <p class="sign">
 -- wikipedia <a href="http://en.wikipedia.org/wiki/Harmonograph">source</a>
+</p>
+
+<iframe src="http://player.vimeo.com/video/31769570?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="390" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
+<p>
+<ul>
+<li>
+<a href="http://openprocessing.org/visuals/?visualID=45356">applet</a>
+<li>
+<a href="https://github.com/K0F/2011/tree/master/11-listopad/asemicContruction">full source</a>
+</li>
+<li>
+<a href="http://dinisnoise.org/">sound generator used</a>
+
+</li>
+</ul>
+</p>
+
 </p>
 
 
