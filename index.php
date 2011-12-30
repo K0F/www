@@ -17,6 +17,22 @@ $back = $trueRandom;//date('h')+date('m')+date('s');
 </head>
 
 
+<!--[if IE]>
+<style type="text/css” media="screen">
+
+@font-face{
+font-family:'DroidSans';
+src: url('/fonts/DroidSans.eot');
+}
+
+@font-face{
+font-family:'DroidSansIt';
+src: url('/fonts/DroidSansBI.eot');
+}
+
+</style>
+<![endif]-->
+
 <?
 
 echo '<body lang="en-US" dir="ltr" style="background-image:url(imgs/human/img'.sprintf('%03d',$back).'.png);">';
@@ -36,7 +52,7 @@ echo '<div style="position:absolute;left:0;top:0;width:100%;height:100%;opacity:
 
 <!-- HEAD --!>
 <tr>
-<th valign="top" colspan="2" align="right" ><h1>lab19.ath.cx</h1></th>
+<th valign="top" colspan="2" align="right" ><h1>kof ::</h1></th>
 </tr>
 
 </thead>
@@ -381,7 +397,7 @@ The map of Bohemia: <br />drawn by Gelett Burgess In literary magazine, <a href=
 <h1>Klecksographie #1</h1>
 <iframe src="http://player.vimeo.com/video/34253720?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=0" width="390" height="220" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
 <p>
-A <i>Rorchach test</i> could be originally inspired bu visual melancholic poems of german poet <b>Justinus Krener</b>. So called Klecksographs were heavily inspired by natural phenomenons and Krener's medical abilities. Krener turned a natural <i>plastic studies</i> into fascinating visual poetry full of mood.
+A <i>Rorchach test</i> could be originally inspired bu visual poems by german poet <b>Justinus Krener</b>. So called <i>Klecksographs</i> were heavily inspired by natural phenomenons and Krener's medical interests. Krener turned a natural <i>plastic studies</i> into fascinating melancholic visual poetry.
 </p>
 
 <img src="http://www.buamai.com/wp-content/uploads/2011/01/5391957832_0f0d7a62c7_b-700x500-700.jpg" width="390"/>

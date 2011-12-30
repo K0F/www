@@ -1,5 +1,17 @@
+@font-face{
+font-family:'DroidSans';
+src: url('/fonts/DroidSans.ttf') format('truetype');
+}
+
+@font-face{
+font-family:'DroidSansIt';
+src: url('/fonts/DroidSansBI.ttf') format('truetype');
+}
+
+
+
 body{
-	font-family: Georgia, "Liberation Serif", Georgia, Serif, "Liberation Sans", Arial;
+	font-family: "DroidSans", "Liberation Serif", Georgia, Serif, "Liberation Sans", Arial;
 	font-size:12px;
 	background-color: #fff;
 	background-image: url(../flickr.gif);
@@ -7,15 +19,16 @@ body{
 
 tbody{
 	font-size: 12px;
-	font-family: Georgia, "Liberation Serif", Georgia, Serif, "Liberation Sans", Arial;
+	font-family: "DroidSans", Georgia, "Liberation Serif", Georgia, Serif, "Liberation Sans", Arial;
 }
 
 
 
 h1{
-	font-size:3em;
+	font-family: DroidSansIt,serif;
+	font-size:1.75em;
 	color: #F2583E;
-	font-style: oblique;
+		
 	line-height: 20px;
 }
 
@@ -65,19 +78,19 @@ background:  url("../imgs/shade.png") repeat-x bottom left, url("../imgs/shadeTo
 
 
 .cell h1{
-color: #2B3E42;
-       font-size: 2em;
-       font-family: serif;
-       font-style: oblique;
+color: #0E0E0E;
+       font-size: 1.75em;
+       font-family: "DroidSansIt", serif;
+       /*font-style: italic;*/
        font-variant: normal;
-       font-weight: bold;
-       line-height: 33%;
+       /* font-weight: bold; */
+       line-height: 75%;
        word-spacing: normal;
-       letter-spacing: -1px;
+       letter-spacing: -2px;
        text-decoration: none;
        text-transform: lowercase;
-       text-align: left;
-       text-indent: 0.75ex;
+       text-align: center;
+       text-indent: 0.0ex;
 }
 
 .cell p{
