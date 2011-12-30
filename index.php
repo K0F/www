@@ -378,6 +378,21 @@ The map of Bohemia: <br />drawn by Gelett Burgess In literary magazine, <a href=
 
 
 <div class="cell">
+<h1>Klecksographie #1</h1>
+<iframe src="http://player.vimeo.com/video/34253720?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=0" width="390" height="220" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
+<p>
+A <i>Rorchach test</i> could be originally inspired bu visual melancholic poems of german poet <b>Justinus Krener</b>. So called Klecksographs were heavily inspired by natural phenomenons and Krener's medical abilities. Krener turned a natural <i>plastic studies</i> into fascinating visual poetry full of mood.
+</p>
+
+<img src="http://www.buamai.com/wp-content/uploads/2011/01/5391957832_0f0d7a62c7_b-700x500-700.jpg" width="390"/>
+
+<p class="sign">
+-- Justinus Kerner (1786-1862), Kleksographien
+</p>
+
+</div>
+
+<div class="cell">
 
 <h1>Harmonograph</h1>
 
