@@ -52,7 +52,7 @@ echo '<div style="position:absolute;left:0;top:0;width:100%;height:100%;opacity:
 
 <!-- HEAD --!>
 <tr>
-<th valign="top" colspan="2" align="right" ><h1>kof ::</h1></th>
+<th valign="top" colspan="2" align="right" ><h1>$>_</h1></th>
 </tr>
 
 </thead>
@@ -334,7 +334,7 @@ Please do not hesitate to contact me:
 </div>
 
 <div class="cell">
-<h1>a place you have just visited</h1>
+<h1>the place you have just visited</h1>
 
 
 <img alt="the picture: the server is behind the doors, painted with a 8px font coloured #F2583E on B/W photography of real place, picture above the doors is my grandfather, he was great man: Prof.Dr.Ing. Vlastimil Herout DrSc., člen korespondent ČSAV" src="imgs/serverBehindTheDoors.gif" title="*knock* *knock* ..this is just beginning, the world is going to be even more bizzare"/>
