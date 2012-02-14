@@ -9,7 +9,7 @@ $back = $trueRandom;//date('h')+date('m')+date('s');
 <html>
 
 <head>
-<title>kof @ lab19.ath.cx</title>
+<title>kof @ lab19.tk</title>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <meta name="decription" content="kof @ Lab19.ath.cx">
 <meta name="keywords" content="kof, k0f, Processing, Prague, Czech Republic">
@@ -72,7 +72,7 @@ echo '<div style="position:absolute;left:0;top:0;width:100%;height:100%;opacity:
 <div class="cell">
 <h1>welcome!</h1>
 <p>
-Please feel welcomed @ <i>lab19.ath.cx</i>, physical device / low-fidelity web-server placed in Bohemia. My name is kof, and my motivation to build such place is rather symbolic and ideologicial.
+Please feel welcomed @ <i>lab19.tk</i>, physical device / low-fidelity web-server placed in Bohemia. My name is kof, and my motivation to build such place is rather symbolic and ideologicial.
 
 </p>
 
@@ -324,7 +324,7 @@ Please do not hesitate to contact me:
 </p>
 
 <p> 
-<div alt="c h r i s t o f f o n @ g m a i l . c o m" class="mail"></div>
+<div alt="k r y s t o f . p e s e k @ g m a i l . c o m" class="mail"></div>
 </p>
 
 <p>
@@ -392,6 +392,28 @@ The map of Bohemia: <br />drawn by Gelett Burgess In literary magazine, <a href=
 <!-- RIGHT ROW --!>
 <td valign="top" width="50%">
 
+<!--
+
+<div class="cell">
+<h1>Catastrophe Series</h1>
+
+<div style="text-align:center">
+<iframe width="348" height="320" scrolling="no" frameborder="0" src="http://www.openprocessing.org/visuals/iframe.php?visualID=8802&width=320&height=240&border=true"></iframe>
+</div>
+
+<p>
+The series of little syntehtic catastrophes continues. The series began in year 2008 by uploading first rendered sketch numbered 844448 on <a href="http://vimeo.com/844448">vimeo</a>.</p>
+
+<p>
+The applet above shows second one; a remake of earlier sketch. <i>*CatastropheTwo*</i> is rendered live as a java applet.
+</p>
+<p>
+I can't help myself, I still found something strange on these moving images. If there is something called a fiction film, those images I would call fiction programs. Their mood is somehow special and it is just the same cold machine code which producing those images. The mood is generated externaly in the audience mind. The question is, how it is possible to achieve by program? This kind of double compilation process, techical and human is this <i>mysterious</i> .
+</p>
+
+
+</div>
+--!>
 
 <div class="cell">
 <h1>Klecksographie #1</h1>
