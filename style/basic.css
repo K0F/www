@@ -57,6 +57,13 @@ a:hover {
 	color:#c2281e;
 }
 
+.cal{
+	position:fixed;
+	right:20px;
+	bottom:20px;
+	
+}
+
 .cell{
 	width: 390px;
 	margin-bottom: 12px;

@@ -55,7 +55,7 @@ echo '<div style="position:absolute;left:0;top:0;width:100%;height:100%;opacity:
 
 <!-- HEAD --!>
 <tr>
-<th valign="top" colspan="2" align="right" ><img src="kof2.png" width="100px;"/></th>
+<th valign="top" colspan="2" align="right" ><img src="kof2.png" /></th>
 </tr>
 
 </thead>
@@ -429,205 +429,8 @@ if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 <?php endwhile; else: ?>
 <p><?php _e('Sorry, no posts matched your criteria.'); ?></p>
 <?php endif; ?>
-
-<!--
-
-<div class="cell">
-<h1>Catastrophe Series</h1>
-
-<div style="text-align:center">
-<iframe width="348" height="320" scrolling="no" frameborder="0" src="http://www.openprocessing.org/visuals/iframe.php?visualID=8802&width=320&height=240&border=true"></iframe>
-</div>
-
-<p>
-The series of little syntehtic catastrophes continues. The series began in year 2008 by uploading first rendered sketch numbered 844448 on <a href="http://vimeo.com/844448">vimeo</a>.</p>
-
-<p>
-The applet above shows second one; a remake of earlier sketch. <i>*CatastropheTwo*</i> is rendered live as a java applet.
-</p>
-<p>
-I can't help myself, I still found something strange on these moving images. If there is something called a fiction film, those images I would call fiction programs. Their mood is somehow special and it is just the same cold machine code which producing those images. The mood is generated externaly in the audience mind. The question is, how it is possible to achieve by program? This kind of double compilation process, techical and human is this <i>mysterious</i> .
-</p>
-
-
-</div>
-
-<div class="cell">
-<h1>Klecksographie #1</h1>
-<iframe src="http://player.vimeo.com/video/34253720?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=0" width="390" height="220" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
-<p>
-A <i>Rorchach test</i> could be originally inspired bu visual poems by german poet <b>Justinus Krener</b>. So called <i>Klecksographs</i> were heavily inspired by natural phenomenons and Krener's medical interests. Krener turned a natural <i>plastic studies</i> into fascinating melancholic visual poetry.
-</p>
-
-<img src="http://www.buamai.com/wp-content/uploads/2011/01/5391957832_0f0d7a62c7_b-700x500-700.jpg" width="390"/>
-
-<p class="sign">
--- Justinus Kerner (1786-1862), Kleksographien
-</p>
-
-</div>
-
-<div class="cell">
-
-<h1>Harmonograph</h1>
-
-<p class="quote">
-A harmonograph is a mechanical apparatus that employs pendulums to create a geometric image. The drawings created typically are Lissajous curves, or related drawings of greater complexity.
-</p>
-
-<img src="imgs/harmonograph.png"/>
-
-<p class="quote">
-The devices, which began to appear in the mid-19th century and peaked in popularity in the 1890s, cannot be conclusively attributed to a single person, although Hugh Blackburn, a professor of mathematics at the University of Glasgow, is commonly believed to be the official inventor.
-</p>
-
-<p class="sign">
--- wikipedia <a href="http://en.wikipedia.org/wiki/Harmonograph">source</a>
-</p>
-
-<iframe src="http://player.vimeo.com/video/31769570?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="390" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
-<p>
-<ul>
-<li>
-<a href="http://openprocessing.org/visuals/?visualID=45356">applet</a>
-<li>
-<a href="https://github.com/K0F/2011/tree/master/11-listopad/asemicContruction">full source</a>
-</li>
-<li>
-<a href="http://dinisnoise.org/">sound generator used</a>
-
-</li>
-</ul>
-</p>
-
-</p>
-
-
-</div>
-
-
-<div class="cell">
-<h1>untitled</h1>
-<iframe src="http://player.vimeo.com/video/31371017?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="389" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
-<p>
-Trigonometry primer. This program has been written under heavy influence of itself to its creator..  
-</p>
-
-<p>
-<ul>
-<li>
-<a href="http://www.openprocessing.org/visuals/?visualID=44151">applet</a>
-</li>
-<li>
-<a href="https://github.com/K0F/2011/tree/master/10-rijen/visOhm2">source</a>
-</li>
-</ul>
-
-</p>
-
-</div>
-
-
-
-<div class="cell">
-<h1>The change (open series)</h1>
-<iframe src="http://player.vimeo.com/video/30986644?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="389" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
-<p>
-The change is a series of short films captured impulsively. The form remains more-less unchanged.. so far.
-</p>
-
-</div>
-
-<div class="cell">
-<h1>Jev / Phenomenon (3/3)</h1>
-
-<iframe src="http://player.vimeo.com/video/30264207?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="389" height="228" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
-<p>
-Phenomenon is a series of films dedicated to cinema screening, presence of film and human creation of object. It creates an experience of watching film as a pure fact. If you play this video on computer screen and you would like to simulate a cinema effect, please watch it with a sound volume high, preferably with few friends, in the dark room.
-</p>
-</div>
-
-<div class="cell">
-<h1>Perfect Illusion of Motion</h1>
-<iframe src="http://player.vimeo.com/video/28927645?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=1" width="389" height="258" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
-<p>
-Binaries in case of software outputs (executables, picture renders, video renders), technically doesn't contain a readable <i>"knowledge"</i> for <i>"next generations"</i>.
-</p>
-<p>
-Binaries can be considered as an <i>"artifacts"</i> in software art, a product - something what <i>"can be sold"</i>, it has a <i>"market value"</i>. But in terms of archiving it is completely misleading conception.
-</p>
-<p>
-<a href=" http://vimeo.com/kof/perfectillusionofmotion">Video above</a> is an exemplary remake of earlier binary <a href="http://vimeo.com/kof/imperfectillusionofmotion">video output</a> from a computer software (Processing).
-</p>
-
-<p>
-The source code is now lost and of course forgotten, forever. <i>(disk corruption issue, not backed up)</i>
-
-This video remake reveals the compression artifacts <i>(so far the past)</i> which is starting to appear after one <i>(two)</i> convertion<i>(s)</i>.
-</p>
-<p>
-The <i>"original"</i> of <i>"Perfect Illusion of Motion"</i>, this video, has a <b>SHA-1</b> <i>(questionable 160 bit)</i> checksum:
-<br /><br />
-2a6e32b2190e05a4464f16e21598b57a3ec34d94
-<br /><br />
-<i>Isn't it poetic?</i>
-<br /><br />
-<a href="http://en.wikipedia.org/wiki/SHA-1">read more about SHA</a>
-<br /><br />
-<i>.. well, probably not )</i>
-</p>
-
-
-<p>
-This file will change on the Vimeo server with a non-paid basic account one week after upload.. it is no longer authentic original then. Walter Benjamin, we need more theories here! ))
-</p>
-<p>
-Vimeo can no longer support storing the original videos to common users.. it used to be <i>"free"</i> Vimeo service <i>(back in 2009?)</i>, but since then due to an enormous growth of this company; and understandable technical reasons <i>(server infrastructure able to distribute a massive of HD content)</i>; this model is just from the economical point of view impossible to keep such way.
-</p>
-<p>
-<i>Is it even possible to keep it any other way?</i>
-</p>
-<p>
-It is much cheaper to store any knowledge in the text form. It is much safer to store it in printed physical form. <i>(never ending rewriting to current readable "standarts")</i> The text communication is in general still the best <i>"compression"</i> algorithm ever made by human culture. And what is the best, it can be red hundreds years from now, as a algorithm, the human language is changing considerably more slow than any other such <i>"compression"</i>.
-</p>
-<p>
-So why the <b>free-open-source</b> conception in terms of archiving of software and its development will be more successful over <b>machine-code-binary-product</b> conception? The answer is simple: for its readability anytime in future. What we can observe is a persisting tension between an understandable but temporary motivation of the market and the motivation to share some real current knowledge to other people, for this moment or anyhow distant future one.
-</p>
-
-<p>I am sorry for a long and fragmented text in bad English. It is just few current, massively compressed thoughts on archiving.</p>
-<p>Anyway, this video will seamlessly "die" here in one week. <i>(@ Sep 19 2011)</i><br /><br />
-<p class="sign">
-<i>--kof</i></p>
-</div>
-
-
-<div class="cell">
-
-
-<h1>wireworld</h1>
-
-
-<iframe src="http://player.vimeo.com/video/4750394?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;loop=0" width="389" height="292" frameborder="0"></iframe><p>The computing model based on Cornway's "Cellar automata", made by Mark Owen in 1987 called WireWorld, it is a logics in it's pure beauty, now reloaded in this useless machine, untitled.</p>
-
-</div>
-
-
-<div class="cell">
-<h1>the change (open series)</h1>
-
-<iframe src="http://player.vimeo.com/video/14564533?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;autoplay=0&amp;loop=0" width="389" height="219" frameborder="0"></iframe>
-<p>
-The change as a necessity to perceive.
-</p>
-</div>
-
-<div class="cell">
-<h1>collapsing complexity</h1>
-<iframe src="http://player.vimeo.com/video/8001034?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;loop=0" width="389" height="292" frameborder="0"></iframe><p>Computer code is gradually using all allowed memory until it reach it's own collapse..<br /><br />sound: We're Complex Piss - The Shadow Ring</p>
-</div>
-
---!>
 <!-- END CONTENT --!>
+
 
 
 </td>
@@ -635,7 +438,11 @@ The change as a necessity to perceive.
 </tbody>
 </table>
 
-
+<!--
+<div class="cal">
+<?php get_calendar(false,true);?>
+</div>
+--!>
 </div>
 </body>
 </html>
