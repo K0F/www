@@ -9,9 +9,8 @@ src: url('/fonts/DroidSansBI.ttf') format('truetype');
 }
 
 
-
 body{
-	font-family: "DroidSans", "Liberation Serif", Georgia, Serif, "Liberation Sans", Arial;
+	font-family: Georgia, "DroidSans", "Liberation Serif", Georgia, Serif, "Liberation Sans", Arial;
 	font-size:12px;
 	background-color: #fff;
 	background-image: url(../flickr.gif);
@@ -19,7 +18,7 @@ body{
 
 tbody{
 	font-size: 12px;
-	font-family: "DroidSans", Georgia, "Liberation Serif", Georgia, Serif, "Liberation Sans", Arial;
+	font-family: Georgia, "DroidSans", Georgia, "Liberation Serif", Georgia, Serif, "Liberation Sans", Arial;
 }
 
 

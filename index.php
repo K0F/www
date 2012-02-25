@@ -4,6 +4,9 @@
 $num_of_commits = 30;
 $trueRandom = (int)file_get_contents("http://www.random.org/integers/?num=1&min=1&max=300&col=1&base=10&format=plain&rnd=new");
 $back = $trueRandom;//date('h')+date('m')+date('s');
+
+//wp-integration
+require('./blog/wp-blog-header.php');
 ?>
 
 <html>
@@ -63,8 +66,8 @@ echo '<div style="position:absolute;left:0;top:0;width:100%;height:100%;opacity:
 <tr>
 
 <!-- LEFT ROW --!>
-<td valign="top" width="50%">
 
+<td valign="top" width="50%">
 
 <!-- //////////////////////////// --!>
 
@@ -390,7 +393,42 @@ The map of Bohemia: <br />drawn by Gelett Burgess In literary magazine, <a href=
 
 
 <!-- RIGHT ROW --!>
+
 <td valign="top" width="50%">
+<?
+if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
+
+<?echo '<div class="cell">';?>
+
+
+<?php the_date('','<span style="float:right;margin-top:10px;">','</span>'); ?>
+<?php the_title('<h1>','</h1>'); ?>
+	
+<div class="post" id="post-<?php the_ID(); ?>">
+	
+	<div class="storycontent">
+		<?php the_content(__('(more...)')); ?>
+	</div>
+	
+	<div class="feedback">
+            <?php wp_link_pages(); ?>
+	</div>
+
+<p class="sign">
+	&#8212; <?php the_author() ?> @ <?php the_time() ?> <?php edit_post_link(__('Edit This')); ?></p>
+
+            
+<?php //comments_popup_link(__('Comments (0)'), __('Comments (1)'), __('Comments (%)')); ?>
+</div>
+
+<?php comments_template(); // Get wp-comments.php template ?>
+
+
+<?echo '</div>';?>
+
+<?php endwhile; else: ?>
+<p><?php _e('Sorry, no posts matched your criteria.'); ?></p>
+<?php endif; ?>
 
 <!--
 
@@ -413,7 +451,6 @@ I can't help myself, I still found something strange on these moving images. If 
 
 
 </div>
---!>
 
 <div class="cell">
 <h1>Klecksographie #1</h1>
@@ -589,6 +626,7 @@ The change as a necessity to perceive.
 <iframe src="http://player.vimeo.com/video/8001034?title=0&amp;byline=0&amp;portrait=0&amp;color=f2583e&amp;loop=0" width="389" height="292" frameborder="0"></iframe><p>Computer code is gradually using all allowed memory until it reach it's own collapse..<br /><br />sound: We're Complex Piss - The Shadow Ring</p>
 </div>
 
+--!>
 <!-- END CONTENT --!>
 
 
