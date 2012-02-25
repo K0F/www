@@ -55,7 +55,7 @@ echo '<div style="position:absolute;left:0;top:0;width:100%;height:100%;opacity:
 
 <!-- HEAD --!>
 <tr>
-<th valign="top" colspan="2" align="right" ><h1>$>_</h1></th>
+<th valign="top" colspan="2" align="right" ><img src="kof2.png" width="100px;"/></th>
 </tr>
 
 </thead>
