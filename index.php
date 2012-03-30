@@ -1,6 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
 <?
+$numposts = 6;
 $num_of_commits = 30;
 $trueRandom = (int)file_get_contents("http://www.random.org/integers/?num=1&min=1&max=300&col=1&base=10&format=plain&rnd=new");
 $back = $trueRandom;//date('h')+date('m')+date('s');
@@ -396,8 +397,9 @@ The map of Bohemia: <br />drawn by Gelett Burgess In literary magazine, <a href=
 
 <td valign="top" width="50%">
 <?
-if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
-
+$c=0;
+if ( have_posts() ) : while ( have_posts() && $c < $numposts ) : the_post(); ?>
+<?$c+=1;?>
 <?echo '<div class="cell">';?>
 
 

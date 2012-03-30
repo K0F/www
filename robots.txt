@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /old
 Disallow: /new
+Disallow: /blog
 
 User-agent: *
 Disallow: /mail
