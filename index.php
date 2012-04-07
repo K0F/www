@@ -13,9 +13,9 @@ require('./blog/wp-blog-header.php');
 <html>
 
 <head>
-<title>kof @ lab19.tk</title>
+<title>kof @ lab19.dyndns.org</title>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-<meta name="decription" content="kof @ Lab19.ath.cx">
+<meta name="decription" content="kof @ Lab19.dyndns.org">
 <meta name="keywords" content="kof, k0f, Processing, Prague, Czech Republic">
 <link href="style/basic.css" rel="stylesheet" type="text/css">
 </head>
@@ -76,7 +76,7 @@ echo '<div style="position:absolute;left:0;top:0;width:100%;height:100%;opacity:
 <div class="cell">
 <h1>welcome!</h1>
 <p>
-Please feel welcomed @ <i>lab19.tk</i>, physical device / low-fidelity web-server placed in Bohemia. My name is kof, and my motivation to build such place is rather symbolic and ideologicial.
+Please feel welcomed @ <i>lab19.dyndns.org</i>, physical device / low-fidelity web-server placed in Bohemia. My name is kof, and my motivation to build such place is rather symbolic and ideologicial.
 
 </p>
 
