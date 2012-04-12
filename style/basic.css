@@ -1,4 +1,8 @@
 @font-face{
+	font-family:'Tektonica';
+	src: url('/fonts/Tektonica.ttf') format('truetype');
+}
+@font-face{
 	font-family:'DroidSans';
 	src: url('/fonts/DroidSans.ttf') format('truetype');
 }
@@ -31,7 +35,7 @@ tbody{
 
 
 h1{
-	font-family: DroidSansIt,serif;
+	font-family: Tektonica,DroidSansIt,serif;
 	font-size:1.75em;
 	color: #F2583E;
 		
@@ -102,15 +106,15 @@ background:  url("../imgs/shade.png") repeat-x bottom left, url("../imgs/shadeTo
 .cell h1{
 color: #0E0E0E;
        font-size: 1.75em;
-       font-family: "DroidSans", serif;
+       font-family: 'Tektonica',"DroidSans", serif;
        /*font-style: italic;*/
        font-variant: normal;
        /* font-weight: bold; */
        line-height: 75%;
        word-spacing: normal;
-       letter-spacing: -1px;
+       /*letter-spacing: -1px;*/
        text-decoration: none;
-       text-transform: lowercase;
+       text-transform: uppercase;
        text-align: left;
        text-indent: 2px;
 }
