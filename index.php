@@ -420,7 +420,7 @@ if ( have_posts() ) : while ( have_posts() && $c < $numposts ) : the_post(); ?>
 	&#8212; <?php the_author() ?> @ <?php the_time() ?> <?php edit_post_link(__('Edit This')); ?></p>
 
             
-<?php //comments_popup_link(__('Comments (0)'), __('Comments (1)'), __('Comments (%)')); ?>
+<?php comments_popup_link(__('Comments (0)'), __('Comments (1)'), __('Comments (%)')); ?>
 </div>
 
 <?php comments_template(); // Get wp-comments.php template ?>
